@@ -1,0 +1,2980 @@
+Lower tier local authorities Code,Lower tier local authorities,Household size (9 categories) Code,Household size (9 categories),Observation
+E06000001,Hartlepool,0,0 people in household,0
+E06000001,Hartlepool,1,1 person in household,13616
+E06000001,Hartlepool,2,2 people in household,13844
+E06000001,Hartlepool,3,3 people in household,6780
+E06000001,Hartlepool,4,4 people in household,4547
+E06000001,Hartlepool,5,5 people in household,1519
+E06000001,Hartlepool,6,6 people in household,440
+E06000001,Hartlepool,7,7 people in household,115
+E06000001,Hartlepool,8,8 or more people in household,69
+E06000002,Middlesbrough,0,0 people in household,0
+E06000002,Middlesbrough,1,1 person in household,19964
+E06000002,Middlesbrough,2,2 people in household,18783
+E06000002,Middlesbrough,3,3 people in household,9819
+E06000002,Middlesbrough,4,4 people in household,7078
+E06000002,Middlesbrough,5,5 people in household,2823
+E06000002,Middlesbrough,6,6 people in household,1131
+E06000002,Middlesbrough,7,7 people in household,420
+E06000002,Middlesbrough,8,8 or more people in household,244
+E06000003,Redcar and Cleveland,0,0 people in household,0
+E06000003,Redcar and Cleveland,1,1 person in household,20663
+E06000003,Redcar and Cleveland,2,2 people in household,21884
+E06000003,Redcar and Cleveland,3,3 people in household,9591
+E06000003,Redcar and Cleveland,4,4 people in household,6554
+E06000003,Redcar and Cleveland,5,5 people in household,2136
+E06000003,Redcar and Cleveland,6,6 people in household,590
+E06000003,Redcar and Cleveland,7,7 people in household,143
+E06000003,Redcar and Cleveland,8,8 or more people in household,77
+E06000004,Stockton-on-Tees,0,0 people in household,0
+E06000004,Stockton-on-Tees,1,1 person in household,25980
+E06000004,Stockton-on-Tees,2,2 people in household,28734
+E06000004,Stockton-on-Tees,3,3 people in household,13771
+E06000004,Stockton-on-Tees,4,4 people in household,10297
+E06000004,Stockton-on-Tees,5,5 people in household,3311
+E06000004,Stockton-on-Tees,6,6 people in household,1013
+E06000004,Stockton-on-Tees,7,7 people in household,407
+E06000004,Stockton-on-Tees,8,8 or more people in household,243
+E06000005,Darlington,0,0 people in household,0
+E06000005,Darlington,1,1 person in household,16714
+E06000005,Darlington,2,2 people in household,17262
+E06000005,Darlington,3,3 people in household,7362
+E06000005,Darlington,4,4 people in household,5287
+E06000005,Darlington,5,5 people in household,1679
+E06000005,Darlington,6,6 people in household,444
+E06000005,Darlington,7,7 people in household,122
+E06000005,Darlington,8,8 or more people in household,52
+E06000006,Halton,0,0 people in household,0
+E06000006,Halton,1,1 person in household,17702
+E06000006,Halton,2,2 people in household,18910
+E06000006,Halton,3,3 people in household,9487
+E06000006,Halton,4,4 people in household,6809
+E06000006,Halton,5,5 people in household,2207
+E06000006,Halton,6,6 people in household,615
+E06000006,Halton,7,7 people in household,155
+E06000006,Halton,8,8 or more people in household,66
+E06000007,Warrington,0,0 people in household,0
+E06000007,Warrington,1,1 person in household,27364
+E06000007,Warrington,2,2 people in household,31577
+E06000007,Warrington,3,3 people in household,15267
+E06000007,Warrington,4,4 people in household,11776
+E06000007,Warrington,5,5 people in household,3401
+E06000007,Warrington,6,6 people in household,848
+E06000007,Warrington,7,7 people in household,204
+E06000007,Warrington,8,8 or more people in household,103
+E06000008,Blackburn with Darwen,0,0 people in household,0
+E06000008,Blackburn with Darwen,1,1 person in household,17578
+E06000008,Blackburn with Darwen,2,2 people in household,16675
+E06000008,Blackburn with Darwen,3,3 people in household,9054
+E06000008,Blackburn with Darwen,4,4 people in household,7827
+E06000008,Blackburn with Darwen,5,5 people in household,4307
+E06000008,Blackburn with Darwen,6,6 people in household,1983
+E06000008,Blackburn with Darwen,7,7 people in household,800
+E06000008,Blackburn with Darwen,8,8 or more people in household,543
+E06000009,Blackpool,0,0 people in household,0
+E06000009,Blackpool,1,1 person in household,24588
+E06000009,Blackpool,2,2 people in household,21375
+E06000009,Blackpool,3,3 people in household,9581
+E06000009,Blackpool,4,4 people in household,6076
+E06000009,Blackpool,5,5 people in household,2023
+E06000009,Blackpool,6,6 people in household,762
+E06000009,Blackpool,7,7 people in household,232
+E06000009,Blackpool,8,8 or more people in household,152
+E06000010,Kingston upon Hull,0,0 people in household,0
+E06000010,Kingston upon Hull,1,1 person in household,39446
+E06000010,Kingston upon Hull,2,2 people in household,36970
+E06000010,Kingston upon Hull,3,3 people in household,18409
+E06000010,Kingston upon Hull,4,4 people in household,13232
+E06000010,Kingston upon Hull,5,5 people in household,5002
+E06000010,Kingston upon Hull,6,6 people in household,1565
+E06000010,Kingston upon Hull,7,7 people in household,550
+E06000010,Kingston upon Hull,8,8 or more people in household,298
+E06000011,East Riding of Yorkshire,0,0 people in household,0
+E06000011,East Riding of Yorkshire,1,1 person in household,45678
+E06000011,East Riding of Yorkshire,2,2 people in household,61113
+E06000011,East Riding of Yorkshire,3,3 people in household,21775
+E06000011,East Riding of Yorkshire,4,4 people in household,17064
+E06000011,East Riding of Yorkshire,5,5 people in household,4743
+E06000011,East Riding of Yorkshire,6,6 people in household,1239
+E06000011,East Riding of Yorkshire,7,7 people in household,316
+E06000011,East Riding of Yorkshire,8,8 or more people in household,139
+E06000012,North East Lincolnshire,0,0 people in household,0
+E06000012,North East Lincolnshire,1,1 person in household,22718
+E06000012,North East Lincolnshire,2,2 people in household,24895
+E06000012,North East Lincolnshire,3,3 people in household,10966
+E06000012,North East Lincolnshire,4,4 people in household,7689
+E06000012,North East Lincolnshire,5,5 people in household,2535
+E06000012,North East Lincolnshire,6,6 people in household,693
+E06000012,North East Lincolnshire,7,7 people in household,227
+E06000012,North East Lincolnshire,8,8 or more people in household,103
+E06000013,North Lincolnshire,0,0 people in household,0
+E06000013,North Lincolnshire,1,1 person in household,21366
+E06000013,North Lincolnshire,2,2 people in household,27626
+E06000013,North Lincolnshire,3,3 people in household,11507
+E06000013,North Lincolnshire,4,4 people in household,8456
+E06000013,North Lincolnshire,5,5 people in household,2908
+E06000013,North Lincolnshire,6,6 people in household,913
+E06000013,North Lincolnshire,7,7 people in household,259
+E06000013,North Lincolnshire,8,8 or more people in household,142
+E06000014,York,0,0 people in household,0
+E06000014,York,1,1 person in household,26640
+E06000014,York,2,2 people in household,31780
+E06000014,York,3,3 people in household,12557
+E06000014,York,4,4 people in household,10372
+E06000014,York,5,5 people in household,2960
+E06000014,York,6,6 people in household,838
+E06000014,York,7,7 people in household,195
+E06000014,York,8,8 or more people in household,117
+E06000015,Derby,0,0 people in household,0
+E06000015,Derby,1,1 person in household,33054
+E06000015,Derby,2,2 people in household,33738
+E06000015,Derby,3,3 people in household,16423
+E06000015,Derby,4,4 people in household,13325
+E06000015,Derby,5,5 people in household,5234
+E06000015,Derby,6,6 people in household,1998
+E06000015,Derby,7,7 people in household,812
+E06000015,Derby,8,8 or more people in household,1068
+E06000016,Leicester,0,0 people in household,0
+E06000016,Leicester,1,1 person in household,35173
+E06000016,Leicester,2,2 people in household,32527
+E06000016,Leicester,3,3 people in household,20944
+E06000016,Leicester,4,4 people in household,19347
+E06000016,Leicester,5,5 people in household,10455
+E06000016,Leicester,6,6 people in household,4758
+E06000016,Leicester,7,7 people in household,2118
+E06000016,Leicester,8,8 or more people in household,2063
+E06000017,Rutland,0,0 people in household,0
+E06000017,Rutland,1,1 person in household,4786
+E06000017,Rutland,2,2 people in household,6814
+E06000017,Rutland,3,3 people in household,2344
+E06000017,Rutland,4,4 people in household,1994
+E06000017,Rutland,5,5 people in household,583
+E06000017,Rutland,6,6 people in household,126
+E06000017,Rutland,7,7 people in household,36
+E06000017,Rutland,8,8 or more people in household,11
+E06000018,Nottingham,0,0 people in household,0
+E06000018,Nottingham,1,1 person in household,41971
+E06000018,Nottingham,2,2 people in household,37590
+E06000018,Nottingham,3,3 people in household,18696
+E06000018,Nottingham,4,4 people in household,14280
+E06000018,Nottingham,5,5 people in household,6776
+E06000018,Nottingham,6,6 people in household,3115
+E06000018,Nottingham,7,7 people in household,1284
+E06000018,Nottingham,8,8 or more people in household,1033
+E06000019,Herefordshire,0,0 people in household,0
+E06000019,Herefordshire,1,1 person in household,25434
+E06000019,Herefordshire,2,2 people in household,32073
+E06000019,Herefordshire,3,3 people in household,11947
+E06000019,Herefordshire,4,4 people in household,9298
+E06000019,Herefordshire,5,5 people in household,2946
+E06000019,Herefordshire,6,6 people in household,796
+E06000019,Herefordshire,7,7 people in household,228
+E06000019,Herefordshire,8,8 or more people in household,106
+E06000020,Telford and Wrekin,0,0 people in household,0
+E06000020,Telford and Wrekin,1,1 person in household,21205
+E06000020,Telford and Wrekin,2,2 people in household,27059
+E06000020,Telford and Wrekin,3,3 people in household,13055
+E06000020,Telford and Wrekin,4,4 people in household,9695
+E06000020,Telford and Wrekin,5,5 people in household,3620
+E06000020,Telford and Wrekin,6,6 people in household,1232
+E06000020,Telford and Wrekin,7,7 people in household,410
+E06000020,Telford and Wrekin,8,8 or more people in household,234
+E06000021,Stoke-on-Trent,0,0 people in household,0
+E06000021,Stoke-on-Trent,1,1 person in household,36179
+E06000021,Stoke-on-Trent,2,2 people in household,36854
+E06000021,Stoke-on-Trent,3,3 people in household,17327
+E06000021,Stoke-on-Trent,4,4 people in household,12078
+E06000021,Stoke-on-Trent,5,5 people in household,5033
+E06000021,Stoke-on-Trent,6,6 people in household,1783
+E06000021,Stoke-on-Trent,7,7 people in household,715
+E06000021,Stoke-on-Trent,8,8 or more people in household,429
+E06000022,Bath and North East Somerset,0,0 people in household,0
+E06000022,Bath and North East Somerset,1,1 person in household,23077
+E06000022,Bath and North East Somerset,2,2 people in household,28379
+E06000022,Bath and North East Somerset,3,3 people in household,12065
+E06000022,Bath and North East Somerset,4,4 people in household,11067
+E06000022,Bath and North East Somerset,5,5 people in household,3378
+E06000022,Bath and North East Somerset,6,6 people in household,931
+E06000022,Bath and North East Somerset,7,7 people in household,246
+E06000022,Bath and North East Somerset,8,8 or more people in household,107
+E06000023,Bristol,0,0 people in household,0
+E06000023,Bristol,1,1 person in household,57862
+E06000023,Bristol,2,2 people in household,64236
+E06000023,Bristol,3,3 people in household,30135
+E06000023,Bristol,4,4 people in household,25245
+E06000023,Bristol,5,5 people in household,8788
+E06000023,Bristol,6,6 people in household,3225
+E06000023,Bristol,7,7 people in household,1181
+E06000023,Bristol,8,8 or more people in household,967
+E06000024,North Somerset,0,0 people in household,0
+E06000024,North Somerset,1,1 person in household,29090
+E06000024,North Somerset,2,2 people in household,34811
+E06000024,North Somerset,3,3 people in household,13872
+E06000024,North Somerset,4,4 people in household,12183
+E06000024,North Somerset,5,5 people in household,3475
+E06000024,North Somerset,6,6 people in household,877
+E06000024,North Somerset,7,7 people in household,222
+E06000024,North Somerset,8,8 or more people in household,119
+E06000025,South Gloucestershire,0,0 people in household,0
+E06000025,South Gloucestershire,1,1 person in household,30747
+E06000025,South Gloucestershire,2,2 people in household,42563
+E06000025,South Gloucestershire,3,3 people in household,19821
+E06000025,South Gloucestershire,4,4 people in household,17980
+E06000025,South Gloucestershire,5,5 people in household,5059
+E06000025,South Gloucestershire,6,6 people in household,1360
+E06000025,South Gloucestershire,7,7 people in household,382
+E06000025,South Gloucestershire,8,8 or more people in household,189
+E06000026,Plymouth,0,0 people in household,0
+E06000026,Plymouth,1,1 person in household,37338
+E06000026,Plymouth,2,2 people in household,40178
+E06000026,Plymouth,3,3 people in household,17651
+E06000026,Plymouth,4,4 people in household,13129
+E06000026,Plymouth,5,5 people in household,4290
+E06000026,Plymouth,6,6 people in household,1347
+E06000026,Plymouth,7,7 people in household,379
+E06000026,Plymouth,8,8 or more people in household,245
+E06000027,Torbay,0,0 people in household,0
+E06000027,Torbay,1,1 person in household,21883
+E06000027,Torbay,2,2 people in household,22917
+E06000027,Torbay,3,3 people in household,8508
+E06000027,Torbay,4,4 people in household,6310
+E06000027,Torbay,5,5 people in household,2235
+E06000027,Torbay,6,6 people in household,714
+E06000027,Torbay,7,7 people in household,245
+E06000027,Torbay,8,8 or more people in household,182
+E06000030,Swindon,0,0 people in household,0
+E06000030,Swindon,1,1 person in household,27219
+E06000030,Swindon,2,2 people in household,31933
+E06000030,Swindon,3,3 people in household,16144
+E06000030,Swindon,4,4 people in household,13822
+E06000030,Swindon,5,5 people in household,4530
+E06000030,Swindon,6,6 people in household,1375
+E06000030,Swindon,7,7 people in household,483
+E06000030,Swindon,8,8 or more people in household,357
+E06000031,Peterborough,0,0 people in household,0
+E06000031,Peterborough,1,1 person in household,23516
+E06000031,Peterborough,2,2 people in household,26700
+E06000031,Peterborough,3,3 people in household,14515
+E06000031,Peterborough,4,4 people in household,11619
+E06000031,Peterborough,5,5 people in household,4858
+E06000031,Peterborough,6,6 people in household,2019
+E06000031,Peterborough,7,7 people in household,769
+E06000031,Peterborough,8,8 or more people in household,536
+E06000032,Luton,0,0 people in household,0
+E06000032,Luton,1,1 person in household,21068
+E06000032,Luton,2,2 people in household,20469
+E06000032,Luton,3,3 people in household,13153
+E06000032,Luton,4,4 people in household,11529
+E06000032,Luton,5,5 people in household,6476
+E06000032,Luton,6,6 people in household,3335
+E06000032,Luton,7,7 people in household,1596
+E06000032,Luton,8,8 or more people in household,1314
+E06000033,Southend-on-Sea,0,0 people in household,0
+E06000033,Southend-on-Sea,1,1 person in household,26102
+E06000033,Southend-on-Sea,2,2 people in household,25371
+E06000033,Southend-on-Sea,3,3 people in household,12385
+E06000033,Southend-on-Sea,4,4 people in household,9857
+E06000033,Southend-on-Sea,5,5 people in household,3242
+E06000033,Southend-on-Sea,6,6 people in household,945
+E06000033,Southend-on-Sea,7,7 people in household,284
+E06000033,Southend-on-Sea,8,8 or more people in household,155
+E06000034,Thurrock,0,0 people in household,0
+E06000034,Thurrock,1,1 person in household,16180
+E06000034,Thurrock,2,2 people in household,19262
+E06000034,Thurrock,3,3 people in household,12854
+E06000034,Thurrock,4,4 people in household,11472
+E06000034,Thurrock,5,5 people in household,4529
+E06000034,Thurrock,6,6 people in household,1441
+E06000034,Thurrock,7,7 people in household,411
+E06000034,Thurrock,8,8 or more people in household,227
+E06000035,Medway,0,0 people in household,0
+E06000035,Medway,1,1 person in household,30462
+E06000035,Medway,2,2 people in household,35753
+E06000035,Medway,3,3 people in household,19650
+E06000035,Medway,4,4 people in household,16738
+E06000035,Medway,5,5 people in household,6200
+E06000035,Medway,6,6 people in household,1875
+E06000035,Medway,7,7 people in household,524
+E06000035,Medway,8,8 or more people in household,256
+E06000036,Bracknell Forest,0,0 people in household,0
+E06000036,Bracknell Forest,1,1 person in household,13465
+E06000036,Bracknell Forest,2,2 people in household,16970
+E06000036,Bracknell Forest,3,3 people in household,8935
+E06000036,Bracknell Forest,4,4 people in household,7743
+E06000036,Bracknell Forest,5,5 people in household,2258
+E06000036,Bracknell Forest,6,6 people in household,639
+E06000036,Bracknell Forest,7,7 people in household,162
+E06000036,Bracknell Forest,8,8 or more people in household,76
+E06000037,West Berkshire,0,0 people in household,0
+E06000037,West Berkshire,1,1 person in household,18008
+E06000037,West Berkshire,2,2 people in household,24134
+E06000037,West Berkshire,3,3 people in household,11005
+E06000037,West Berkshire,4,4 people in household,9680
+E06000037,West Berkshire,5,5 people in household,2807
+E06000037,West Berkshire,6,6 people in household,748
+E06000037,West Berkshire,7,7 people in household,207
+E06000037,West Berkshire,8,8 or more people in household,69
+E06000038,Reading,0,0 people in household,0
+E06000038,Reading,1,1 person in household,19262
+E06000038,Reading,2,2 people in household,21183
+E06000038,Reading,3,3 people in household,11577
+E06000038,Reading,4,4 people in household,9585
+E06000038,Reading,5,5 people in household,3685
+E06000038,Reading,6,6 people in household,1426
+E06000038,Reading,7,7 people in household,584
+E06000038,Reading,8,8 or more people in household,381
+E06000039,Slough,0,0 people in household,0
+E06000039,Slough,1,1 person in household,11948
+E06000039,Slough,2,2 people in household,11950
+E06000039,Slough,3,3 people in household,9848
+E06000039,Slough,4,4 people in household,9564
+E06000039,Slough,5,5 people in household,4666
+E06000039,Slough,6,6 people in household,2369
+E06000039,Slough,7,7 people in household,1011
+E06000039,Slough,8,8 or more people in household,1067
+E06000040,Windsor and Maidenhead,0,0 people in household,0
+E06000040,Windsor and Maidenhead,1,1 person in household,16715
+E06000040,Windsor and Maidenhead,2,2 people in household,20250
+E06000040,Windsor and Maidenhead,3,3 people in household,10329
+E06000040,Windsor and Maidenhead,4,4 people in household,9479
+E06000040,Windsor and Maidenhead,5,5 people in household,2754
+E06000040,Windsor and Maidenhead,6,6 people in household,865
+E06000040,Windsor and Maidenhead,7,7 people in household,264
+E06000040,Windsor and Maidenhead,8,8 or more people in household,279
+E06000041,Wokingham,0,0 people in household,0
+E06000041,Wokingham,1,1 person in household,16265
+E06000041,Wokingham,2,2 people in household,23529
+E06000041,Wokingham,3,3 people in household,12396
+E06000041,Wokingham,4,4 people in household,12405
+E06000041,Wokingham,5,5 people in household,3405
+E06000041,Wokingham,6,6 people in household,832
+E06000041,Wokingham,7,7 people in household,223
+E06000041,Wokingham,8,8 or more people in household,109
+E06000042,Milton Keynes,0,0 people in household,0
+E06000042,Milton Keynes,1,1 person in household,29795
+E06000042,Milton Keynes,2,2 people in household,36133
+E06000042,Milton Keynes,3,3 people in household,20168
+E06000042,Milton Keynes,4,4 people in household,17498
+E06000042,Milton Keynes,5,5 people in household,6312
+E06000042,Milton Keynes,6,6 people in household,2152
+E06000042,Milton Keynes,7,7 people in household,668
+E06000042,Milton Keynes,8,8 or more people in household,376
+E06000043,Brighton and Hove,0,0 people in household,0
+E06000043,Brighton and Hove,1,1 person in household,42101
+E06000043,Brighton and Hove,2,2 people in household,40770
+E06000043,Brighton and Hove,3,3 people in household,18122
+E06000043,Brighton and Hove,4,4 people in household,14243
+E06000043,Brighton and Hove,5,5 people in household,4244
+E06000043,Brighton and Hove,6,6 people in household,1380
+E06000043,Brighton and Hove,7,7 people in household,352
+E06000043,Brighton and Hove,8,8 or more people in household,190
+E06000044,Portsmouth,0,0 people in household,0
+E06000044,Portsmouth,1,1 person in household,27607
+E06000044,Portsmouth,2,2 people in household,27805
+E06000044,Portsmouth,3,3 people in household,13930
+E06000044,Portsmouth,4,4 people in household,10788
+E06000044,Portsmouth,5,5 people in household,4032
+E06000044,Portsmouth,6,6 people in household,1291
+E06000044,Portsmouth,7,7 people in household,476
+E06000044,Portsmouth,8,8 or more people in household,225
+E06000045,Southampton,0,0 people in household,0
+E06000045,Southampton,1,1 person in household,33711
+E06000045,Southampton,2,2 people in household,32884
+E06000045,Southampton,3,3 people in household,15636
+E06000045,Southampton,4,4 people in household,12333
+E06000045,Southampton,5,5 people in household,4934
+E06000045,Southampton,6,6 people in household,1822
+E06000045,Southampton,7,7 people in household,593
+E06000045,Southampton,8,8 or more people in household,378
+E06000046,Isle of Wight,0,0 people in household,0
+E06000046,Isle of Wight,1,1 person in household,22484
+E06000046,Isle of Wight,2,2 people in household,25005
+E06000046,Isle of Wight,3,3 people in household,8437
+E06000046,Isle of Wight,4,4 people in household,5906
+E06000046,Isle of Wight,5,5 people in household,2025
+E06000046,Isle of Wight,6,6 people in household,626
+E06000046,Isle of Wight,7,7 people in household,184
+E06000046,Isle of Wight,8,8 or more people in household,105
+E06000047,County Durham,0,0 people in household,0
+E06000047,County Durham,1,1 person in household,79529
+E06000047,County Durham,2,2 people in household,84630
+E06000047,County Durham,3,3 people in household,36310
+E06000047,County Durham,4,4 people in household,24430
+E06000047,County Durham,5,5 people in household,7040
+E06000047,County Durham,6,6 people in household,2042
+E06000047,County Durham,7,7 people in household,541
+E06000047,County Durham,8,8 or more people in household,237
+E06000049,Cheshire East,0,0 people in household,0
+E06000049,Cheshire East,1,1 person in household,53136
+E06000049,Cheshire East,2,2 people in household,64854
+E06000049,Cheshire East,3,3 people in household,27168
+E06000049,Cheshire East,4,4 people in household,21449
+E06000049,Cheshire East,5,5 people in household,6165
+E06000049,Cheshire East,6,6 people in household,1522
+E06000049,Cheshire East,7,7 people in household,373
+E06000049,Cheshire East,8,8 or more people in household,190
+E06000050,Cheshire West and Chester,0,0 people in household,0
+E06000050,Cheshire West and Chester,1,1 person in household,46887
+E06000050,Cheshire West and Chester,2,2 people in household,56529
+E06000050,Cheshire West and Chester,3,3 people in household,25045
+E06000050,Cheshire West and Chester,4,4 people in household,19291
+E06000050,Cheshire West and Chester,5,5 people in household,5455
+E06000050,Cheshire West and Chester,6,6 people in household,1390
+E06000050,Cheshire West and Chester,7,7 people in household,375
+E06000050,Cheshire West and Chester,8,8 or more people in household,182
+E06000051,Shropshire,0,0 people in household,0
+E06000051,Shropshire,1,1 person in household,41428
+E06000051,Shropshire,2,2 people in household,54661
+E06000051,Shropshire,3,3 people in household,20205
+E06000051,Shropshire,4,4 people in household,16078
+E06000051,Shropshire,5,5 people in household,4835
+E06000051,Shropshire,6,6 people in household,1396
+E06000051,Shropshire,7,7 people in household,505
+E06000051,Shropshire,8,8 or more people in household,471
+E06000052,Cornwall,0,0 people in household,0
+E06000052,Cornwall,1,1 person in household,76862
+E06000052,Cornwall,2,2 people in household,96146
+E06000052,Cornwall,3,3 people in household,36219
+E06000052,Cornwall,4,4 people in household,28035
+E06000052,Cornwall,5,5 people in household,9232
+E06000052,Cornwall,6,6 people in household,2753
+E06000052,Cornwall,7,7 people in household,848
+E06000052,Cornwall,8,8 or more people in household,443
+E06000053,Isles of Scilly,0,0 people in household,0
+E06000053,Isles of Scilly,1,1 person in household,307
+E06000053,Isles of Scilly,2,2 people in household,402
+E06000053,Isles of Scilly,3,3 people in household,94
+E06000053,Isles of Scilly,4,4 people in household,95
+E06000053,Isles of Scilly,5,5 people in household,26
+E06000053,Isles of Scilly,6,6 people in household,11
+E06000053,Isles of Scilly,7,7 people in household,3
+E06000053,Isles of Scilly,8,8 or more people in household,5
+E06000054,Wiltshire,0,0 people in household,0
+E06000054,Wiltshire,1,1 person in household,60574
+E06000054,Wiltshire,2,2 people in household,81164
+E06000054,Wiltshire,3,3 people in household,33692
+E06000054,Wiltshire,4,4 people in household,28205
+E06000054,Wiltshire,5,5 people in household,8490
+E06000054,Wiltshire,6,6 people in household,2186
+E06000054,Wiltshire,7,7 people in household,535
+E06000054,Wiltshire,8,8 or more people in household,237
+E06000055,Bedford,0,0 people in household,0
+E06000055,Bedford,1,1 person in household,21448
+E06000055,Bedford,2,2 people in household,24647
+E06000055,Bedford,3,3 people in household,12411
+E06000055,Bedford,4,4 people in household,10569
+E06000055,Bedford,5,5 people in household,3831
+E06000055,Bedford,6,6 people in household,1325
+E06000055,Bedford,7,7 people in household,439
+E06000055,Bedford,8,8 or more people in household,280
+E06000056,Central Bedfordshire,0,0 people in household,0
+E06000056,Central Bedfordshire,1,1 person in household,31171
+E06000056,Central Bedfordshire,2,2 people in household,43254
+E06000056,Central Bedfordshire,3,3 people in household,21077
+E06000056,Central Bedfordshire,4,4 people in household,18141
+E06000056,Central Bedfordshire,5,5 people in household,5197
+E06000056,Central Bedfordshire,6,6 people in household,1365
+E06000056,Central Bedfordshire,7,7 people in household,376
+E06000056,Central Bedfordshire,8,8 or more people in household,172
+E06000057,Northumberland,0,0 people in household,0
+E06000057,Northumberland,1,1 person in household,48149
+E06000057,Northumberland,2,2 people in household,56863
+E06000057,Northumberland,3,3 people in household,21121
+E06000057,Northumberland,4,4 people in household,15118
+E06000057,Northumberland,5,5 people in household,4219
+E06000057,Northumberland,6,6 people in household,1073
+E06000057,Northumberland,7,7 people in household,268
+E06000057,Northumberland,8,8 or more people in household,111
+E06000058,"Bournemouth, Christchurch and Poole",0,0 people in household,0
+E06000058,"Bournemouth, Christchurch and Poole",1,1 person in household,56531
+E06000058,"Bournemouth, Christchurch and Poole",2,2 people in household,61650
+E06000058,"Bournemouth, Christchurch and Poole",3,3 people in household,25969
+E06000058,"Bournemouth, Christchurch and Poole",4,4 people in household,20627
+E06000058,"Bournemouth, Christchurch and Poole",5,5 people in household,6340
+E06000058,"Bournemouth, Christchurch and Poole",6,6 people in household,1877
+E06000058,"Bournemouth, Christchurch and Poole",7,7 people in household,568
+E06000058,"Bournemouth, Christchurch and Poole",8,8 or more people in household,279
+E06000059,Dorset,0,0 people in household,0
+E06000059,Dorset,1,1 person in household,51741
+E06000059,Dorset,2,2 people in household,68961
+E06000059,Dorset,3,3 people in household,22917
+E06000059,Dorset,4,4 people in household,18049
+E06000059,Dorset,5,5 people in household,5470
+E06000059,Dorset,6,6 people in household,1488
+E06000059,Dorset,7,7 people in household,408
+E06000059,Dorset,8,8 or more people in household,223
+E06000060,Buckinghamshire,0,0 people in household,0
+E06000060,Buckinghamshire,1,1 person in household,57889
+E06000060,Buckinghamshire,2,2 people in household,74977
+E06000060,Buckinghamshire,3,3 people in household,36693
+E06000060,Buckinghamshire,4,4 people in household,34470
+E06000060,Buckinghamshire,5,5 people in household,11108
+E06000060,Buckinghamshire,6,6 people in household,3331
+E06000060,Buckinghamshire,7,7 people in household,1107
+E06000060,Buckinghamshire,8,8 or more people in household,753
+E06000061,North Northamptonshire,0,0 people in household,0
+E06000061,North Northamptonshire,1,1 person in household,40715
+E06000061,North Northamptonshire,2,2 people in household,52937
+E06000061,North Northamptonshire,3,3 people in household,25312
+E06000061,North Northamptonshire,4,4 people in household,20317
+E06000061,North Northamptonshire,5,5 people in household,6749
+E06000061,North Northamptonshire,6,6 people in household,2096
+E06000061,North Northamptonshire,7,7 people in household,530
+E06000061,North Northamptonshire,8,8 or more people in household,263
+E06000062,West Northamptonshire,0,0 people in household,0
+E06000062,West Northamptonshire,1,1 person in household,46474
+E06000062,West Northamptonshire,2,2 people in household,60072
+E06000062,West Northamptonshire,3,3 people in household,29420
+E06000062,West Northamptonshire,4,4 people in household,24645
+E06000062,West Northamptonshire,5,5 people in household,8312
+E06000062,West Northamptonshire,6,6 people in household,2506
+E06000062,West Northamptonshire,7,7 people in household,767
+E06000062,West Northamptonshire,8,8 or more people in household,445
+E07000008,Cambridge,0,0 people in household,0
+E07000008,Cambridge,1,1 person in household,16660
+E07000008,Cambridge,2,2 people in household,17050
+E07000008,Cambridge,3,3 people in household,8400
+E07000008,Cambridge,4,4 people in household,6525
+E07000008,Cambridge,5,5 people in household,2085
+E07000008,Cambridge,6,6 people in household,775
+E07000008,Cambridge,7,7 people in household,323
+E07000008,Cambridge,8,8 or more people in household,655
+E07000009,East Cambridgeshire,0,0 people in household,0
+E07000009,East Cambridgeshire,1,1 person in household,10291
+E07000009,East Cambridgeshire,2,2 people in household,13877
+E07000009,East Cambridgeshire,3,3 people in household,5901
+E07000009,East Cambridgeshire,4,4 people in household,5140
+E07000009,East Cambridgeshire,5,5 people in household,1488
+E07000009,East Cambridgeshire,6,6 people in household,358
+E07000009,East Cambridgeshire,7,7 people in household,99
+E07000009,East Cambridgeshire,8,8 or more people in household,49
+E07000010,Fenland,0,0 people in household,0
+E07000010,Fenland,1,1 person in household,12787
+E07000010,Fenland,2,2 people in household,16857
+E07000010,Fenland,3,3 people in household,6928
+E07000010,Fenland,4,4 people in household,4979
+E07000010,Fenland,5,5 people in household,1709
+E07000010,Fenland,6,6 people in household,573
+E07000010,Fenland,7,7 people in household,170
+E07000010,Fenland,8,8 or more people in household,80
+E07000011,Huntingdonshire,0,0 people in household,0
+E07000011,Huntingdonshire,1,1 person in household,21564
+E07000011,Huntingdonshire,2,2 people in household,28895
+E07000011,Huntingdonshire,3,3 people in household,12189
+E07000011,Huntingdonshire,4,4 people in household,10226
+E07000011,Huntingdonshire,5,5 people in household,2912
+E07000011,Huntingdonshire,6,6 people in household,793
+E07000011,Huntingdonshire,7,7 people in household,212
+E07000011,Huntingdonshire,8,8 or more people in household,88
+E07000012,South Cambridgeshire,0,0 people in household,0
+E07000012,South Cambridgeshire,1,1 person in household,17574
+E07000012,South Cambridgeshire,2,2 people in household,24328
+E07000012,South Cambridgeshire,3,3 people in household,10870
+E07000012,South Cambridgeshire,4,4 people in household,10359
+E07000012,South Cambridgeshire,5,5 people in household,2995
+E07000012,South Cambridgeshire,6,6 people in household,665
+E07000012,South Cambridgeshire,7,7 people in household,132
+E07000012,South Cambridgeshire,8,8 or more people in household,73
+E07000026,Allerdale,0,0 people in household,0
+E07000026,Allerdale,1,1 person in household,14672
+E07000026,Allerdale,2,2 people in household,16517
+E07000026,Allerdale,3,3 people in household,6194
+E07000026,Allerdale,4,4 people in household,4767
+E07000026,Allerdale,5,5 people in household,1344
+E07000026,Allerdale,6,6 people in household,347
+E07000026,Allerdale,7,7 people in household,80
+E07000026,Allerdale,8,8 or more people in household,51
+E07000027,Barrow-in-Furness,0,0 people in household,0
+E07000027,Barrow-in-Furness,1,1 person in household,11308
+E07000027,Barrow-in-Furness,2,2 people in household,10798
+E07000027,Barrow-in-Furness,3,3 people in household,4493
+E07000027,Barrow-in-Furness,4,4 people in household,3298
+E07000027,Barrow-in-Furness,5,5 people in household,1008
+E07000027,Barrow-in-Furness,6,6 people in household,260
+E07000027,Barrow-in-Furness,7,7 people in household,61
+E07000027,Barrow-in-Furness,8,8 or more people in household,32
+E07000028,Carlisle,0,0 people in household,0
+E07000028,Carlisle,1,1 person in household,17780
+E07000028,Carlisle,2,2 people in household,18164
+E07000028,Carlisle,3,3 people in household,7232
+E07000028,Carlisle,4,4 people in household,5235
+E07000028,Carlisle,5,5 people in household,1655
+E07000028,Carlisle,6,6 people in household,436
+E07000028,Carlisle,7,7 people in household,105
+E07000028,Carlisle,8,8 or more people in household,56
+E07000029,Copeland,0,0 people in household,0
+E07000029,Copeland,1,1 person in household,10565
+E07000029,Copeland,2,2 people in household,11246
+E07000029,Copeland,3,3 people in household,4396
+E07000029,Copeland,4,4 people in household,3276
+E07000029,Copeland,5,5 people in household,948
+E07000029,Copeland,6,6 people in household,265
+E07000029,Copeland,7,7 people in household,70
+E07000029,Copeland,8,8 or more people in household,23
+E07000030,Eden,0,0 people in household,0
+E07000030,Eden,1,1 person in household,7618
+E07000030,Eden,2,2 people in household,9858
+E07000030,Eden,3,3 people in household,3298
+E07000030,Eden,4,4 people in household,2617
+E07000030,Eden,5,5 people in household,862
+E07000030,Eden,6,6 people in household,241
+E07000030,Eden,7,7 people in household,66
+E07000030,Eden,8,8 or more people in household,53
+E07000031,South Lakeland,0,0 people in household,0
+E07000031,South Lakeland,1,1 person in household,15487
+E07000031,South Lakeland,2,2 people in household,19224
+E07000031,South Lakeland,3,3 people in household,6223
+E07000031,South Lakeland,4,4 people in household,4981
+E07000031,South Lakeland,5,5 people in household,1329
+E07000031,South Lakeland,6,6 people in household,297
+E07000031,South Lakeland,7,7 people in household,72
+E07000031,South Lakeland,8,8 or more people in household,43
+E07000032,Amber Valley,0,0 people in household,0
+E07000032,Amber Valley,1,1 person in household,17166
+E07000032,Amber Valley,2,2 people in household,21621
+E07000032,Amber Valley,3,3 people in household,8525
+E07000032,Amber Valley,4,4 people in household,6564
+E07000032,Amber Valley,5,5 people in household,1761
+E07000032,Amber Valley,6,6 people in household,441
+E07000032,Amber Valley,7,7 people in household,136
+E07000032,Amber Valley,8,8 or more people in household,64
+E07000033,Bolsover,0,0 people in household,0
+E07000033,Bolsover,1,1 person in household,10539
+E07000033,Bolsover,2,2 people in household,13197
+E07000033,Bolsover,3,3 people in household,5779
+E07000033,Bolsover,4,4 people in household,4050
+E07000033,Bolsover,5,5 people in household,1228
+E07000033,Bolsover,6,6 people in household,329
+E07000033,Bolsover,7,7 people in household,99
+E07000033,Bolsover,8,8 or more people in household,41
+E07000034,Chesterfield,0,0 people in household,0
+E07000034,Chesterfield,1,1 person in household,17066
+E07000034,Chesterfield,2,2 people in household,17159
+E07000034,Chesterfield,3,3 people in household,6878
+E07000034,Chesterfield,4,4 people in household,4939
+E07000034,Chesterfield,5,5 people in household,1472
+E07000034,Chesterfield,6,6 people in household,387
+E07000034,Chesterfield,7,7 people in household,100
+E07000034,Chesterfield,8,8 or more people in household,58
+E07000035,Derbyshire Dales,0,0 people in household,0
+E07000035,Derbyshire Dales,1,1 person in household,9890
+E07000035,Derbyshire Dales,2,2 people in household,13182
+E07000035,Derbyshire Dales,3,3 people in household,4401
+E07000035,Derbyshire Dales,4,4 people in household,3511
+E07000035,Derbyshire Dales,5,5 people in household,986
+E07000035,Derbyshire Dales,6,6 people in household,233
+E07000035,Derbyshire Dales,7,7 people in household,57
+E07000035,Derbyshire Dales,8,8 or more people in household,23
+E07000036,Erewash,0,0 people in household,0
+E07000036,Erewash,1,1 person in household,15551
+E07000036,Erewash,2,2 people in household,18742
+E07000036,Erewash,3,3 people in household,8049
+E07000036,Erewash,4,4 people in household,5803
+E07000036,Erewash,5,5 people in household,1606
+E07000036,Erewash,6,6 people in household,443
+E07000036,Erewash,7,7 people in household,99
+E07000036,Erewash,8,8 or more people in household,41
+E07000037,High Peak,0,0 people in household,0
+E07000037,High Peak,1,1 person in household,12944
+E07000037,High Peak,2,2 people in household,15089
+E07000037,High Peak,3,3 people in household,6159
+E07000037,High Peak,4,4 people in household,4811
+E07000037,High Peak,5,5 people in household,1332
+E07000037,High Peak,6,6 people in household,334
+E07000037,High Peak,7,7 people in household,74
+E07000037,High Peak,8,8 or more people in household,29
+E07000038,North East Derbyshire,0,0 people in household,0
+E07000038,North East Derbyshire,1,1 person in household,14305
+E07000038,North East Derbyshire,2,2 people in household,17761
+E07000038,North East Derbyshire,3,3 people in household,6755
+E07000038,North East Derbyshire,4,4 people in household,5291
+E07000038,North East Derbyshire,5,5 people in household,1402
+E07000038,North East Derbyshire,6,6 people in household,350
+E07000038,North East Derbyshire,7,7 people in household,80
+E07000038,North East Derbyshire,8,8 or more people in household,43
+E07000039,South Derbyshire,0,0 people in household,0
+E07000039,South Derbyshire,1,1 person in household,12249
+E07000039,South Derbyshire,2,2 people in household,17057
+E07000039,South Derbyshire,3,3 people in household,7552
+E07000039,South Derbyshire,4,4 people in household,5969
+E07000039,South Derbyshire,5,5 people in household,1764
+E07000039,South Derbyshire,6,6 people in household,462
+E07000039,South Derbyshire,7,7 people in household,137
+E07000039,South Derbyshire,8,8 or more people in household,50
+E07000040,East Devon,0,0 people in household,0
+E07000040,East Devon,1,1 person in household,20056
+E07000040,East Devon,2,2 people in household,27221
+E07000040,East Devon,3,3 people in household,8914
+E07000040,East Devon,4,4 people in household,7329
+E07000040,East Devon,5,5 people in household,2324
+E07000040,East Devon,6,6 people in household,646
+E07000040,East Devon,7,7 people in household,182
+E07000040,East Devon,8,8 or more people in household,116
+E07000041,Exeter,0,0 people in household,0
+E07000041,Exeter,1,1 person in household,17021
+E07000041,Exeter,2,2 people in household,17881
+E07000041,Exeter,3,3 people in household,7823
+E07000041,Exeter,4,4 people in household,6378
+E07000041,Exeter,5,5 people in household,2215
+E07000041,Exeter,6,6 people in household,814
+E07000041,Exeter,7,7 people in household,263
+E07000041,Exeter,8,8 or more people in household,158
+E07000042,Mid Devon,0,0 people in household,0
+E07000042,Mid Devon,1,1 person in household,10238
+E07000042,Mid Devon,2,2 people in household,13825
+E07000042,Mid Devon,3,3 people in household,5031
+E07000042,Mid Devon,4,4 people in household,4448
+E07000042,Mid Devon,5,5 people in household,1468
+E07000042,Mid Devon,6,6 people in household,427
+E07000042,Mid Devon,7,7 people in household,119
+E07000042,Mid Devon,8,8 or more people in household,75
+E07000043,North Devon,0,0 people in household,0
+E07000043,North Devon,1,1 person in household,13257
+E07000043,North Devon,2,2 people in household,16576
+E07000043,North Devon,3,3 people in household,6096
+E07000043,North Devon,4,4 people in household,4968
+E07000043,North Devon,5,5 people in household,1605
+E07000043,North Devon,6,6 people in household,477
+E07000043,North Devon,7,7 people in household,136
+E07000043,North Devon,8,8 or more people in household,82
+E07000044,South Hams,0,0 people in household,0
+E07000044,South Hams,1,1 person in household,11621
+E07000044,South Hams,2,2 people in household,15975
+E07000044,South Hams,3,3 people in household,5492
+E07000044,South Hams,4,4 people in household,4368
+E07000044,South Hams,5,5 people in household,1369
+E07000044,South Hams,6,6 people in household,361
+E07000044,South Hams,7,7 people in household,90
+E07000044,South Hams,8,8 or more people in household,61
+E07000045,Teignbridge,0,0 people in household,0
+E07000045,Teignbridge,1,1 person in household,18406
+E07000045,Teignbridge,2,2 people in household,23537
+E07000045,Teignbridge,3,3 people in household,8351
+E07000045,Teignbridge,4,4 people in household,6722
+E07000045,Teignbridge,5,5 people in household,2012
+E07000045,Teignbridge,6,6 people in household,573
+E07000045,Teignbridge,7,7 people in household,157
+E07000045,Teignbridge,8,8 or more people in household,79
+E07000046,Torridge,0,0 people in household,0
+E07000046,Torridge,1,1 person in household,9330
+E07000046,Torridge,2,2 people in household,12392
+E07000046,Torridge,3,3 people in household,4058
+E07000046,Torridge,4,4 people in household,3100
+E07000046,Torridge,5,5 people in household,1066
+E07000046,Torridge,6,6 people in household,364
+E07000046,Torridge,7,7 people in household,97
+E07000046,Torridge,8,8 or more people in household,53
+E07000047,West Devon,0,0 people in household,0
+E07000047,West Devon,1,1 person in household,7300
+E07000047,West Devon,2,2 people in household,10182
+E07000047,West Devon,3,3 people in household,3325
+E07000047,West Devon,4,4 people in household,2711
+E07000047,West Devon,5,5 people in household,919
+E07000047,West Devon,6,6 people in household,251
+E07000047,West Devon,7,7 people in household,72
+E07000047,West Devon,8,8 or more people in household,59
+E07000061,Eastbourne,0,0 people in household,0
+E07000061,Eastbourne,1,1 person in household,16205
+E07000061,Eastbourne,2,2 people in household,15668
+E07000061,Eastbourne,3,3 people in household,6398
+E07000061,Eastbourne,4,4 people in household,4909
+E07000061,Eastbourne,5,5 people in household,1670
+E07000061,Eastbourne,6,6 people in household,511
+E07000061,Eastbourne,7,7 people in household,162
+E07000061,Eastbourne,8,8 or more people in household,87
+E07000062,Hastings,0,0 people in household,0
+E07000062,Hastings,1,1 person in household,14441
+E07000062,Hastings,2,2 people in household,13249
+E07000062,Hastings,3,3 people in household,5951
+E07000062,Hastings,4,4 people in household,4419
+E07000062,Hastings,5,5 people in household,1623
+E07000062,Hastings,6,6 people in household,503
+E07000062,Hastings,7,7 people in household,168
+E07000062,Hastings,8,8 or more people in household,99
+E07000063,Lewes,0,0 people in household,0
+E07000063,Lewes,1,1 person in household,13539
+E07000063,Lewes,2,2 people in household,16174
+E07000063,Lewes,3,3 people in household,6478
+E07000063,Lewes,4,4 people in household,5236
+E07000063,Lewes,5,5 people in household,1663
+E07000063,Lewes,6,6 people in household,427
+E07000063,Lewes,7,7 people in household,137
+E07000063,Lewes,8,8 or more people in household,34
+E07000064,Rother,0,0 people in household,0
+E07000064,Rother,1,1 person in household,13713
+E07000064,Rother,2,2 people in household,16801
+E07000064,Rother,3,3 people in household,5463
+E07000064,Rother,4,4 people in household,4069
+E07000064,Rother,5,5 people in household,1371
+E07000064,Rother,6,6 people in household,467
+E07000064,Rother,7,7 people in household,141
+E07000064,Rother,8,8 or more people in household,76
+E07000065,Wealden,0,0 people in household,0
+E07000065,Wealden,1,1 person in household,18745
+E07000065,Wealden,2,2 people in household,26958
+E07000065,Wealden,3,3 people in household,10216
+E07000065,Wealden,4,4 people in household,8620
+E07000065,Wealden,5,5 people in household,2720
+E07000065,Wealden,6,6 people in household,746
+E07000065,Wealden,7,7 people in household,178
+E07000065,Wealden,8,8 or more people in household,83
+E07000066,Basildon,0,0 people in household,0
+E07000066,Basildon,1,1 person in household,21474
+E07000066,Basildon,2,2 people in household,24554
+E07000066,Basildon,3,3 people in household,13258
+E07000066,Basildon,4,4 people in household,11540
+E07000066,Basildon,5,5 people in household,3810
+E07000066,Basildon,6,6 people in household,1184
+E07000066,Basildon,7,7 people in household,351
+E07000066,Basildon,8,8 or more people in household,192
+E07000067,Braintree,0,0 people in household,0
+E07000067,Braintree,1,1 person in household,17774
+E07000067,Braintree,2,2 people in household,23651
+E07000067,Braintree,3,3 people in household,10603
+E07000067,Braintree,4,4 people in household,9082
+E07000067,Braintree,5,5 people in household,2846
+E07000067,Braintree,6,6 people in household,747
+E07000067,Braintree,7,7 people in household,204
+E07000067,Braintree,8,8 or more people in household,77
+E07000068,Brentwood,0,0 people in household,0
+E07000068,Brentwood,1,1 person in household,9402
+E07000068,Brentwood,2,2 people in household,10940
+E07000068,Brentwood,3,3 people in household,5285
+E07000068,Brentwood,4,4 people in household,4908
+E07000068,Brentwood,5,5 people in household,1365
+E07000068,Brentwood,6,6 people in household,327
+E07000068,Brentwood,7,7 people in household,79
+E07000068,Brentwood,8,8 or more people in household,36
+E07000069,Castle Point,0,0 people in household,0
+E07000069,Castle Point,1,1 person in household,10221
+E07000069,Castle Point,2,2 people in household,13567
+E07000069,Castle Point,3,3 people in household,6056
+E07000069,Castle Point,4,4 people in household,5188
+E07000069,Castle Point,5,5 people in household,1653
+E07000069,Castle Point,6,6 people in household,474
+E07000069,Castle Point,7,7 people in household,140
+E07000069,Castle Point,8,8 or more people in household,89
+E07000070,Chelmsford,0,0 people in household,0
+E07000070,Chelmsford,1,1 person in household,21153
+E07000070,Chelmsford,2,2 people in household,26360
+E07000070,Chelmsford,3,3 people in household,12249
+E07000070,Chelmsford,4,4 people in household,11286
+E07000070,Chelmsford,5,5 people in household,3280
+E07000070,Chelmsford,6,6 people in household,775
+E07000070,Chelmsford,7,7 people in household,198
+E07000070,Chelmsford,8,8 or more people in household,102
+E07000071,Colchester,0,0 people in household,0
+E07000071,Colchester,1,1 person in household,23075
+E07000071,Colchester,2,2 people in household,27877
+E07000071,Colchester,3,3 people in household,12984
+E07000071,Colchester,4,4 people in household,10970
+E07000071,Colchester,5,5 people in household,3441
+E07000071,Colchester,6,6 people in household,963
+E07000071,Colchester,7,7 people in household,287
+E07000071,Colchester,8,8 or more people in household,111
+E07000072,Epping Forest,0,0 people in household,0
+E07000072,Epping Forest,1,1 person in household,14827
+E07000072,Epping Forest,2,2 people in household,17990
+E07000072,Epping Forest,3,3 people in household,9499
+E07000072,Epping Forest,4,4 people in household,8356
+E07000072,Epping Forest,5,5 people in household,2692
+E07000072,Epping Forest,6,6 people in household,830
+E07000072,Epping Forest,7,7 people in household,215
+E07000072,Epping Forest,8,8 or more people in household,148
+E07000073,Harlow,0,0 people in household,0
+E07000073,Harlow,1,1 person in household,10918
+E07000073,Harlow,2,2 people in household,11457
+E07000073,Harlow,3,3 people in household,6940
+E07000073,Harlow,4,4 people in household,5704
+E07000073,Harlow,5,5 people in household,1952
+E07000073,Harlow,6,6 people in household,588
+E07000073,Harlow,7,7 people in household,212
+E07000073,Harlow,8,8 or more people in household,86
+E07000074,Maldon,0,0 people in household,0
+E07000074,Maldon,1,1 person in household,7418
+E07000074,Maldon,2,2 people in household,10698
+E07000074,Maldon,3,3 people in household,4436
+E07000074,Maldon,4,4 people in household,3767
+E07000074,Maldon,5,5 people in household,1143
+E07000074,Maldon,6,6 people in household,319
+E07000074,Maldon,7,7 people in household,75
+E07000074,Maldon,8,8 or more people in household,44
+E07000075,Rochford,0,0 people in household,0
+E07000075,Rochford,1,1 person in household,9360
+E07000075,Rochford,2,2 people in household,12823
+E07000075,Rochford,3,3 people in household,5855
+E07000075,Rochford,4,4 people in household,5470
+E07000075,Rochford,5,5 people in household,1556
+E07000075,Rochford,6,6 people in household,363
+E07000075,Rochford,7,7 people in household,99
+E07000075,Rochford,8,8 or more people in household,33
+E07000076,Tendring,0,0 people in household,0
+E07000076,Tendring,1,1 person in household,23073
+E07000076,Tendring,2,2 people in household,25249
+E07000076,Tendring,3,3 people in household,8867
+E07000076,Tendring,4,4 people in household,6644
+E07000076,Tendring,5,5 people in household,2406
+E07000076,Tendring,6,6 people in household,823
+E07000076,Tendring,7,7 people in household,277
+E07000076,Tendring,8,8 or more people in household,114
+E07000077,Uttlesford,0,0 people in household,0
+E07000077,Uttlesford,1,1 person in household,9228
+E07000077,Uttlesford,2,2 people in household,13236
+E07000077,Uttlesford,3,3 people in household,6259
+E07000077,Uttlesford,4,4 people in household,5900
+E07000077,Uttlesford,5,5 people in household,1795
+E07000077,Uttlesford,6,6 people in household,418
+E07000077,Uttlesford,7,7 people in household,93
+E07000077,Uttlesford,8,8 or more people in household,29
+E07000078,Cheltenham,0,0 people in household,0
+E07000078,Cheltenham,1,1 person in household,18432
+E07000078,Cheltenham,2,2 people in household,18513
+E07000078,Cheltenham,3,3 people in household,7319
+E07000078,Cheltenham,4,4 people in household,6242
+E07000078,Cheltenham,5,5 people in household,1773
+E07000078,Cheltenham,6,6 people in household,426
+E07000078,Cheltenham,7,7 people in household,121
+E07000078,Cheltenham,8,8 or more people in household,73
+E07000079,Cotswold,0,0 people in household,0
+E07000079,Cotswold,1,1 person in household,12261
+E07000079,Cotswold,2,2 people in household,16288
+E07000079,Cotswold,3,3 people in household,5646
+E07000079,Cotswold,4,4 people in household,4631
+E07000079,Cotswold,5,5 people in household,1335
+E07000079,Cotswold,6,6 people in household,317
+E07000079,Cotswold,7,7 people in household,73
+E07000079,Cotswold,8,8 or more people in household,41
+E07000080,Forest of Dean,0,0 people in household,0
+E07000080,Forest of Dean,1,1 person in household,10579
+E07000080,Forest of Dean,2,2 people in household,14707
+E07000080,Forest of Dean,3,3 people in household,5620
+E07000080,Forest of Dean,4,4 people in household,4251
+E07000080,Forest of Dean,5,5 people in household,1431
+E07000080,Forest of Dean,6,6 people in household,438
+E07000080,Forest of Dean,7,7 people in household,123
+E07000080,Forest of Dean,8,8 or more people in household,67
+E07000081,Gloucester,0,0 people in household,0
+E07000081,Gloucester,1,1 person in household,16754
+E07000081,Gloucester,2,2 people in household,18652
+E07000081,Gloucester,3,3 people in household,8986
+E07000081,Gloucester,4,4 people in household,7284
+E07000081,Gloucester,5,5 people in household,2549
+E07000081,Gloucester,6,6 people in household,812
+E07000081,Gloucester,7,7 people in household,231
+E07000081,Gloucester,8,8 or more people in household,139
+E07000082,Stroud,0,0 people in household,0
+E07000082,Stroud,1,1 person in household,15257
+E07000082,Stroud,2,2 people in household,19795
+E07000082,Stroud,3,3 people in household,7870
+E07000082,Stroud,4,4 people in household,6814
+E07000082,Stroud,5,5 people in household,1956
+E07000082,Stroud,6,6 people in household,513
+E07000082,Stroud,7,7 people in household,116
+E07000082,Stroud,8,8 or more people in household,57
+E07000083,Tewkesbury,0,0 people in household,0
+E07000083,Tewkesbury,1,1 person in household,11551
+E07000083,Tewkesbury,2,2 people in household,15605
+E07000083,Tewkesbury,3,3 people in household,6296
+E07000083,Tewkesbury,4,4 people in household,5508
+E07000083,Tewkesbury,5,5 people in household,1452
+E07000083,Tewkesbury,6,6 people in household,365
+E07000083,Tewkesbury,7,7 people in household,105
+E07000083,Tewkesbury,8,8 or more people in household,49
+E07000084,Basingstoke and Deane,0,0 people in household,0
+E07000084,Basingstoke and Deane,1,1 person in household,20406
+E07000084,Basingstoke and Deane,2,2 people in household,27492
+E07000084,Basingstoke and Deane,3,3 people in household,13085
+E07000084,Basingstoke and Deane,4,4 people in household,11005
+E07000084,Basingstoke and Deane,5,5 people in household,3347
+E07000084,Basingstoke and Deane,6,6 people in household,925
+E07000084,Basingstoke and Deane,7,7 people in household,241
+E07000084,Basingstoke and Deane,8,8 or more people in household,144
+E07000085,East Hampshire,0,0 people in household,0
+E07000085,East Hampshire,1,1 person in household,13910
+E07000085,East Hampshire,2,2 people in household,20238
+E07000085,East Hampshire,3,3 people in household,8392
+E07000085,East Hampshire,4,4 people in household,7348
+E07000085,East Hampshire,5,5 people in household,2100
+E07000085,East Hampshire,6,6 people in household,542
+E07000085,East Hampshire,7,7 people in household,129
+E07000085,East Hampshire,8,8 or more people in household,58
+E07000086,Eastleigh,0,0 people in household,0
+E07000086,Eastleigh,1,1 person in household,15107
+E07000086,Eastleigh,2,2 people in household,20845
+E07000086,Eastleigh,3,3 people in household,9401
+E07000086,Eastleigh,4,4 people in household,8494
+E07000086,Eastleigh,5,5 people in household,2293
+E07000086,Eastleigh,6,6 people in household,590
+E07000086,Eastleigh,7,7 people in household,120
+E07000086,Eastleigh,8,8 or more people in household,76
+E07000087,Fareham,0,0 people in household,0
+E07000087,Fareham,1,1 person in household,13009
+E07000087,Fareham,2,2 people in household,19043
+E07000087,Fareham,3,3 people in household,7695
+E07000087,Fareham,4,4 people in household,6693
+E07000087,Fareham,5,5 people in household,1668
+E07000087,Fareham,6,6 people in household,386
+E07000087,Fareham,7,7 people in household,92
+E07000087,Fareham,8,8 or more people in household,53
+E07000088,Gosport,0,0 people in household,0
+E07000088,Gosport,1,1 person in household,11443
+E07000088,Gosport,2,2 people in household,13042
+E07000088,Gosport,3,3 people in household,5385
+E07000088,Gosport,4,4 people in household,4039
+E07000088,Gosport,5,5 people in household,1397
+E07000088,Gosport,6,6 people in household,405
+E07000088,Gosport,7,7 people in household,141
+E07000088,Gosport,8,8 or more people in household,70
+E07000089,Hart,0,0 people in household,0
+E07000089,Hart,1,1 person in household,9836
+E07000089,Hart,2,2 people in household,14388
+E07000089,Hart,3,3 people in household,6854
+E07000089,Hart,4,4 people in household,6621
+E07000089,Hart,5,5 people in household,1790
+E07000089,Hart,6,6 people in household,362
+E07000089,Hart,7,7 people in household,75
+E07000089,Hart,8,8 or more people in household,38
+E07000090,Havant,0,0 people in household,0
+E07000090,Havant,1,1 person in household,15957
+E07000090,Havant,2,2 people in household,19947
+E07000090,Havant,3,3 people in household,8100
+E07000090,Havant,4,4 people in household,6469
+E07000090,Havant,5,5 people in household,2109
+E07000090,Havant,6,6 people in household,691
+E07000090,Havant,7,7 people in household,210
+E07000090,Havant,8,8 or more people in household,106
+E07000091,New Forest,0,0 people in household,0
+E07000091,New Forest,1,1 person in household,22737
+E07000091,New Forest,2,2 people in household,31381
+E07000091,New Forest,3,3 people in household,10944
+E07000091,New Forest,4,4 people in household,8818
+E07000091,New Forest,5,5 people in household,2706
+E07000091,New Forest,6,6 people in household,725
+E07000091,New Forest,7,7 people in household,171
+E07000091,New Forest,8,8 or more people in household,83
+E07000092,Rushmoor,0,0 people in household,0
+E07000092,Rushmoor,1,1 person in household,10502
+E07000092,Rushmoor,2,2 people in household,12618
+E07000092,Rushmoor,3,3 people in household,7036
+E07000092,Rushmoor,4,4 people in household,5974
+E07000092,Rushmoor,5,5 people in household,2045
+E07000092,Rushmoor,6,6 people in household,757
+E07000092,Rushmoor,7,7 people in household,250
+E07000092,Rushmoor,8,8 or more people in household,118
+E07000093,Test Valley,0,0 people in household,0
+E07000093,Test Valley,1,1 person in household,14464
+E07000093,Test Valley,2,2 people in household,20828
+E07000093,Test Valley,3,3 people in household,8947
+E07000093,Test Valley,4,4 people in household,7540
+E07000093,Test Valley,5,5 people in household,2145
+E07000093,Test Valley,6,6 people in household,575
+E07000093,Test Valley,7,7 people in household,136
+E07000093,Test Valley,8,8 or more people in household,68
+E07000094,Winchester,0,0 people in household,0
+E07000094,Winchester,1,1 person in household,14333
+E07000094,Winchester,2,2 people in household,19105
+E07000094,Winchester,3,3 people in household,7874
+E07000094,Winchester,4,4 people in household,7395
+E07000094,Winchester,5,5 people in household,2271
+E07000094,Winchester,6,6 people in household,545
+E07000094,Winchester,7,7 people in household,146
+E07000094,Winchester,8,8 or more people in household,48
+E07000095,Broxbourne,0,0 people in household,0
+E07000095,Broxbourne,1,1 person in household,10971
+E07000095,Broxbourne,2,2 people in household,12262
+E07000095,Broxbourne,3,3 people in household,7220
+E07000095,Broxbourne,4,4 people in household,6461
+E07000095,Broxbourne,5,5 people in household,2164
+E07000095,Broxbourne,6,6 people in household,541
+E07000095,Broxbourne,7,7 people in household,160
+E07000095,Broxbourne,8,8 or more people in household,70
+E07000096,Dacorum,0,0 people in household,0
+E07000096,Dacorum,1,1 person in household,17851
+E07000096,Dacorum,2,2 people in household,20858
+E07000096,Dacorum,3,3 people in household,11024
+E07000096,Dacorum,4,4 people in household,9760
+E07000096,Dacorum,5,5 people in household,2853
+E07000096,Dacorum,6,6 people in household,759
+E07000096,Dacorum,7,7 people in household,201
+E07000096,Dacorum,8,8 or more people in household,106
+E07000098,Hertsmere,0,0 people in household,0
+E07000098,Hertsmere,1,1 person in household,11527
+E07000098,Hertsmere,2,2 people in household,13153
+E07000098,Hertsmere,3,3 people in household,7624
+E07000098,Hertsmere,4,4 people in household,7178
+E07000098,Hertsmere,5,5 people in household,2310
+E07000098,Hertsmere,6,6 people in household,622
+E07000098,Hertsmere,7,7 people in household,170
+E07000098,Hertsmere,8,8 or more people in household,98
+E07000099,North Hertfordshire,0,0 people in household,0
+E07000099,North Hertfordshire,1,1 person in household,16903
+E07000099,North Hertfordshire,2,2 people in household,19605
+E07000099,North Hertfordshire,3,3 people in household,9021
+E07000099,North Hertfordshire,4,4 people in household,8111
+E07000099,North Hertfordshire,5,5 people in household,2300
+E07000099,North Hertfordshire,6,6 people in household,592
+E07000099,North Hertfordshire,7,7 people in household,125
+E07000099,North Hertfordshire,8,8 or more people in household,70
+E07000102,Three Rivers,0,0 people in household,0
+E07000102,Three Rivers,1,1 person in household,9697
+E07000102,Three Rivers,2,2 people in household,11231
+E07000102,Three Rivers,3,3 people in household,6635
+E07000102,Three Rivers,4,4 people in household,6593
+E07000102,Three Rivers,5,5 people in household,1967
+E07000102,Three Rivers,6,6 people in household,509
+E07000102,Three Rivers,7,7 people in household,143
+E07000102,Three Rivers,8,8 or more people in household,85
+E07000103,Watford,0,0 people in household,0
+E07000103,Watford,1,1 person in household,11146
+E07000103,Watford,2,2 people in household,11334
+E07000103,Watford,3,3 people in household,7106
+E07000103,Watford,4,4 people in household,6294
+E07000103,Watford,5,5 people in household,2327
+E07000103,Watford,6,6 people in household,871
+E07000103,Watford,7,7 people in household,297
+E07000103,Watford,8,8 or more people in household,252
+E07000105,Ashford,0,0 people in household,0
+E07000105,Ashford,1,1 person in household,13861
+E07000105,Ashford,2,2 people in household,18895
+E07000105,Ashford,3,3 people in household,9068
+E07000105,Ashford,4,4 people in household,7794
+E07000105,Ashford,5,5 people in household,2670
+E07000105,Ashford,6,6 people in household,886
+E07000105,Ashford,7,7 people in household,275
+E07000105,Ashford,8,8 or more people in household,133
+E07000106,Canterbury,0,0 people in household,0
+E07000106,Canterbury,1,1 person in household,19046
+E07000106,Canterbury,2,2 people in household,22843
+E07000106,Canterbury,3,3 people in household,9959
+E07000106,Canterbury,4,4 people in household,7927
+E07000106,Canterbury,5,5 people in household,2746
+E07000106,Canterbury,6,6 people in household,908
+E07000106,Canterbury,7,7 people in household,260
+E07000106,Canterbury,8,8 or more people in household,103
+E07000107,Dartford,0,0 people in household,0
+E07000107,Dartford,1,1 person in household,11827
+E07000107,Dartford,2,2 people in household,14013
+E07000107,Dartford,3,3 people in household,8413
+E07000107,Dartford,4,4 people in household,7779
+E07000107,Dartford,5,5 people in household,2633
+E07000107,Dartford,6,6 people in household,706
+E07000107,Dartford,7,7 people in household,233
+E07000107,Dartford,8,8 or more people in household,92
+E07000108,Dover,0,0 people in household,0
+E07000108,Dover,1,1 person in household,15658
+E07000108,Dover,2,2 people in household,18675
+E07000108,Dover,3,3 people in household,7732
+E07000108,Dover,4,4 people in household,5619
+E07000108,Dover,5,5 people in household,1950
+E07000108,Dover,6,6 people in household,608
+E07000108,Dover,7,7 people in household,199
+E07000108,Dover,8,8 or more people in household,107
+E07000109,Gravesham,0,0 people in household,0
+E07000109,Gravesham,1,1 person in household,11212
+E07000109,Gravesham,2,2 people in household,12749
+E07000109,Gravesham,3,3 people in household,7250
+E07000109,Gravesham,4,4 people in household,6607
+E07000109,Gravesham,5,5 people in household,2631
+E07000109,Gravesham,6,6 people in household,853
+E07000109,Gravesham,7,7 people in household,265
+E07000109,Gravesham,8,8 or more people in household,157
+E07000110,Maidstone,0,0 people in household,0
+E07000110,Maidstone,1,1 person in household,18800
+E07000110,Maidstone,2,2 people in household,25050
+E07000110,Maidstone,3,3 people in household,12023
+E07000110,Maidstone,4,4 people in household,10546
+E07000110,Maidstone,5,5 people in household,3349
+E07000110,Maidstone,6,6 people in household,959
+E07000110,Maidstone,7,7 people in household,293
+E07000110,Maidstone,8,8 or more people in household,187
+E07000111,Sevenoaks,0,0 people in household,0
+E07000111,Sevenoaks,1,1 person in household,12990
+E07000111,Sevenoaks,2,2 people in household,16893
+E07000111,Sevenoaks,3,3 people in household,8198
+E07000111,Sevenoaks,4,4 people in household,7760
+E07000111,Sevenoaks,5,5 people in household,2396
+E07000111,Sevenoaks,6,6 people in household,562
+E07000111,Sevenoaks,7,7 people in household,130
+E07000111,Sevenoaks,8,8 or more people in household,82
+E07000112,Folkestone and Hythe,0,0 people in household,0
+E07000112,Folkestone and Hythe,1,1 person in household,15728
+E07000112,Folkestone and Hythe,2,2 people in household,17799
+E07000112,Folkestone and Hythe,3,3 people in household,6863
+E07000112,Folkestone and Hythe,4,4 people in household,5199
+E07000112,Folkestone and Hythe,5,5 people in household,1821
+E07000112,Folkestone and Hythe,6,6 people in household,629
+E07000112,Folkestone and Hythe,7,7 people in household,195
+E07000112,Folkestone and Hythe,8,8 or more people in household,105
+E07000113,Swale,0,0 people in household,0
+E07000113,Swale,1,1 person in household,15957
+E07000113,Swale,2,2 people in household,21206
+E07000113,Swale,3,3 people in household,10223
+E07000113,Swale,4,4 people in household,8451
+E07000113,Swale,5,5 people in household,3029
+E07000113,Swale,6,6 people in household,1057
+E07000113,Swale,7,7 people in household,379
+E07000113,Swale,8,8 or more people in household,193
+E07000114,Thanet,0,0 people in household,0
+E07000114,Thanet,1,1 person in household,20839
+E07000114,Thanet,2,2 people in household,21791
+E07000114,Thanet,3,3 people in household,9244
+E07000114,Thanet,4,4 people in household,6716
+E07000114,Thanet,5,5 people in household,2430
+E07000114,Thanet,6,6 people in household,806
+E07000114,Thanet,7,7 people in household,233
+E07000114,Thanet,8,8 or more people in household,141
+E07000115,Tonbridge and Malling,0,0 people in household,0
+E07000115,Tonbridge and Malling,1,1 person in household,13698
+E07000115,Tonbridge and Malling,2,2 people in household,18695
+E07000115,Tonbridge and Malling,3,3 people in household,9279
+E07000115,Tonbridge and Malling,4,4 people in household,8511
+E07000115,Tonbridge and Malling,5,5 people in household,2568
+E07000115,Tonbridge and Malling,6,6 people in household,599
+E07000115,Tonbridge and Malling,7,7 people in household,153
+E07000115,Tonbridge and Malling,8,8 or more people in household,73
+E07000116,Tunbridge Wells,0,0 people in household,0
+E07000116,Tunbridge Wells,1,1 person in household,14198
+E07000116,Tunbridge Wells,2,2 people in household,16415
+E07000116,Tunbridge Wells,3,3 people in household,7762
+E07000116,Tunbridge Wells,4,4 people in household,7104
+E07000116,Tunbridge Wells,5,5 people in household,2089
+E07000116,Tunbridge Wells,6,6 people in household,482
+E07000116,Tunbridge Wells,7,7 people in household,106
+E07000116,Tunbridge Wells,8,8 or more people in household,66
+E07000117,Burnley,0,0 people in household,0
+E07000117,Burnley,1,1 person in household,13126
+E07000117,Burnley,2,2 people in household,12801
+E07000117,Burnley,3,3 people in household,6279
+E07000117,Burnley,4,4 people in household,4463
+E07000117,Burnley,5,5 people in household,1857
+E07000117,Burnley,6,6 people in household,800
+E07000117,Burnley,7,7 people in household,315
+E07000117,Burnley,8,8 or more people in household,231
+E07000118,Chorley,0,0 people in household,0
+E07000118,Chorley,1,1 person in household,14660
+E07000118,Chorley,2,2 people in household,18326
+E07000118,Chorley,3,3 people in household,8190
+E07000118,Chorley,4,4 people in household,6507
+E07000118,Chorley,5,5 people in household,1820
+E07000118,Chorley,6,6 people in household,451
+E07000118,Chorley,7,7 people in household,132
+E07000118,Chorley,8,8 or more people in household,47
+E07000119,Fylde,0,0 people in household,0
+E07000119,Fylde,1,1 person in household,12863
+E07000119,Fylde,2,2 people in household,14433
+E07000119,Fylde,3,3 people in household,5201
+E07000119,Fylde,4,4 people in household,3667
+E07000119,Fylde,5,5 people in household,1075
+E07000119,Fylde,6,6 people in household,246
+E07000119,Fylde,7,7 people in household,83
+E07000119,Fylde,8,8 or more people in household,38
+E07000120,Hyndburn,0,0 people in household,0
+E07000120,Hyndburn,1,1 person in household,11434
+E07000120,Hyndburn,2,2 people in household,11402
+E07000120,Hyndburn,3,3 people in household,5449
+E07000120,Hyndburn,4,4 people in household,3728
+E07000120,Hyndburn,5,5 people in household,1611
+E07000120,Hyndburn,6,6 people in household,642
+E07000120,Hyndburn,7,7 people in household,291
+E07000120,Hyndburn,8,8 or more people in household,234
+E07000121,Lancaster,0,0 people in household,0
+E07000121,Lancaster,1,1 person in household,19526
+E07000121,Lancaster,2,2 people in household,21376
+E07000121,Lancaster,3,3 people in household,8885
+E07000121,Lancaster,4,4 people in household,6871
+E07000121,Lancaster,5,5 people in household,2234
+E07000121,Lancaster,6,6 people in household,724
+E07000121,Lancaster,7,7 people in household,218
+E07000121,Lancaster,8,8 or more people in household,149
+E07000122,Pendle,0,0 people in household,0
+E07000122,Pendle,1,1 person in household,11824
+E07000122,Pendle,2,2 people in household,12183
+E07000122,Pendle,3,3 people in household,5508
+E07000122,Pendle,4,4 people in household,4255
+E07000122,Pendle,5,5 people in household,2189
+E07000122,Pendle,6,6 people in household,1159
+E07000122,Pendle,7,7 people in household,479
+E07000122,Pendle,8,8 or more people in household,469
+E07000123,Preston,0,0 people in household,0
+E07000123,Preston,1,1 person in household,19400
+E07000123,Preston,2,2 people in household,18312
+E07000123,Preston,3,3 people in household,9564
+E07000123,Preston,4,4 people in household,7401
+E07000123,Preston,5,5 people in household,3127
+E07000123,Preston,6,6 people in household,1195
+E07000123,Preston,7,7 people in household,366
+E07000123,Preston,8,8 or more people in household,244
+E07000124,Ribble Valley,0,0 people in household,0
+E07000124,Ribble Valley,1,1 person in household,7807
+E07000124,Ribble Valley,2,2 people in household,10220
+E07000124,Ribble Valley,3,3 people in household,4238
+E07000124,Ribble Valley,4,4 people in household,3273
+E07000124,Ribble Valley,5,5 people in household,905
+E07000124,Ribble Valley,6,6 people in household,204
+E07000124,Ribble Valley,7,7 people in household,64
+E07000124,Ribble Valley,8,8 or more people in household,36
+E07000125,Rossendale,0,0 people in household,0
+E07000125,Rossendale,1,1 person in household,9708
+E07000125,Rossendale,2,2 people in household,10398
+E07000125,Rossendale,3,3 people in household,4922
+E07000125,Rossendale,4,4 people in household,3737
+E07000125,Rossendale,5,5 people in household,1221
+E07000125,Rossendale,6,6 people in household,367
+E07000125,Rossendale,7,7 people in household,136
+E07000125,Rossendale,8,8 or more people in household,73
+E07000126,South Ribble,0,0 people in household,0
+E07000126,South Ribble,1,1 person in household,14496
+E07000126,South Ribble,2,2 people in household,17855
+E07000126,South Ribble,3,3 people in household,7965
+E07000126,South Ribble,4,4 people in household,6012
+E07000126,South Ribble,5,5 people in household,1684
+E07000126,South Ribble,6,6 people in household,413
+E07000126,South Ribble,7,7 people in household,113
+E07000126,South Ribble,8,8 or more people in household,50
+E07000127,West Lancashire,0,0 people in household,0
+E07000127,West Lancashire,1,1 person in household,13989
+E07000127,West Lancashire,2,2 people in household,17548
+E07000127,West Lancashire,3,3 people in household,7964
+E07000127,West Lancashire,4,4 people in household,6352
+E07000127,West Lancashire,5,5 people in household,1950
+E07000127,West Lancashire,6,6 people in household,524
+E07000127,West Lancashire,7,7 people in household,154
+E07000127,West Lancashire,8,8 or more people in household,52
+E07000128,Wyre,0,0 people in household,0
+E07000128,Wyre,1,1 person in household,16346
+E07000128,Wyre,2,2 people in household,19636
+E07000128,Wyre,3,3 people in household,7409
+E07000128,Wyre,4,4 people in household,5245
+E07000128,Wyre,5,5 people in household,1559
+E07000128,Wyre,6,6 people in household,425
+E07000128,Wyre,7,7 people in household,96
+E07000128,Wyre,8,8 or more people in household,52
+E07000129,Blaby,0,0 people in household,0
+E07000129,Blaby,1,1 person in household,11095
+E07000129,Blaby,2,2 people in household,15392
+E07000129,Blaby,3,3 people in household,7214
+E07000129,Blaby,4,4 people in household,6352
+E07000129,Blaby,5,5 people in household,1858
+E07000129,Blaby,6,6 people in household,469
+E07000129,Blaby,7,7 people in household,137
+E07000129,Blaby,8,8 or more people in household,62
+E07000130,Charnwood,0,0 people in household,0
+E07000130,Charnwood,1,1 person in household,20860
+E07000130,Charnwood,2,2 people in household,26012
+E07000130,Charnwood,3,3 people in household,12097
+E07000130,Charnwood,4,4 people in household,10251
+E07000130,Charnwood,5,5 people in household,3080
+E07000130,Charnwood,6,6 people in household,1003
+E07000130,Charnwood,7,7 people in household,323
+E07000130,Charnwood,8,8 or more people in household,159
+E07000131,Harborough,0,0 people in household,0
+E07000131,Harborough,1,1 person in household,10514
+E07000131,Harborough,2,2 people in household,15394
+E07000131,Harborough,3,3 people in household,6442
+E07000131,Harborough,4,4 people in household,5725
+E07000131,Harborough,5,5 people in household,1680
+E07000131,Harborough,6,6 people in household,425
+E07000131,Harborough,7,7 people in household,143
+E07000131,Harborough,8,8 or more people in household,90
+E07000132,Hinckley and Bosworth,0,0 people in household,0
+E07000132,Hinckley and Bosworth,1,1 person in household,13972
+E07000132,Hinckley and Bosworth,2,2 people in household,19177
+E07000132,Hinckley and Bosworth,3,3 people in household,7837
+E07000132,Hinckley and Bosworth,4,4 people in household,6161
+E07000132,Hinckley and Bosworth,5,5 people in household,1695
+E07000132,Hinckley and Bosworth,6,6 people in household,424
+E07000132,Hinckley and Bosworth,7,7 people in household,123
+E07000132,Hinckley and Bosworth,8,8 or more people in household,58
+E07000133,Melton,0,0 people in household,0
+E07000133,Melton,1,1 person in household,6363
+E07000133,Melton,2,2 people in household,9021
+E07000133,Melton,3,3 people in household,3395
+E07000133,Melton,4,4 people in household,2710
+E07000133,Melton,5,5 people in household,846
+E07000133,Melton,6,6 people in household,180
+E07000133,Melton,7,7 people in household,55
+E07000133,Melton,8,8 or more people in household,29
+E07000134,North West Leicestershire,0,0 people in household,0
+E07000134,North West Leicestershire,1,1 person in household,12497
+E07000134,North West Leicestershire,2,2 people in household,17024
+E07000134,North West Leicestershire,3,3 people in household,7367
+E07000134,North West Leicestershire,4,4 people in household,5754
+E07000134,North West Leicestershire,5,5 people in household,1667
+E07000134,North West Leicestershire,6,6 people in household,490
+E07000134,North West Leicestershire,7,7 people in household,118
+E07000134,North West Leicestershire,8,8 or more people in household,55
+E07000135,Oadby and Wigston,0,0 people in household,0
+E07000135,Oadby and Wigston,1,1 person in household,6347
+E07000135,Oadby and Wigston,2,2 people in household,7306
+E07000135,Oadby and Wigston,3,3 people in household,3760
+E07000135,Oadby and Wigston,4,4 people in household,3329
+E07000135,Oadby and Wigston,5,5 people in household,1251
+E07000135,Oadby and Wigston,6,6 people in household,415
+E07000135,Oadby and Wigston,7,7 people in household,134
+E07000135,Oadby and Wigston,8,8 or more people in household,75
+E07000136,Boston,0,0 people in household,0
+E07000136,Boston,1,1 person in household,8089
+E07000136,Boston,2,2 people in household,10784
+E07000136,Boston,3,3 people in household,4822
+E07000136,Boston,4,4 people in household,3763
+E07000136,Boston,5,5 people in household,1393
+E07000136,Boston,6,6 people in household,372
+E07000136,Boston,7,7 people in household,124
+E07000136,Boston,8,8 or more people in household,55
+E07000137,East Lindsey,0,0 people in household,0
+E07000137,East Lindsey,1,1 person in household,19800
+E07000137,East Lindsey,2,2 people in household,27693
+E07000137,East Lindsey,3,3 people in household,8643
+E07000137,East Lindsey,4,4 people in household,5691
+E07000137,East Lindsey,5,5 people in household,2023
+E07000137,East Lindsey,6,6 people in household,586
+E07000137,East Lindsey,7,7 people in household,214
+E07000137,East Lindsey,8,8 or more people in household,104
+E07000138,Lincoln,0,0 people in household,0
+E07000138,Lincoln,1,1 person in household,14137
+E07000138,Lincoln,2,2 people in household,14441
+E07000138,Lincoln,3,3 people in household,6509
+E07000138,Lincoln,4,4 people in household,4789
+E07000138,Lincoln,5,5 people in household,1665
+E07000138,Lincoln,6,6 people in household,619
+E07000138,Lincoln,7,7 people in household,216
+E07000138,Lincoln,8,8 or more people in household,130
+E07000139,North Kesteven,0,0 people in household,0
+E07000139,North Kesteven,1,1 person in household,13989
+E07000139,North Kesteven,2,2 people in household,20613
+E07000139,North Kesteven,3,3 people in household,7891
+E07000139,North Kesteven,4,4 people in household,6138
+E07000139,North Kesteven,5,5 people in household,1778
+E07000139,North Kesteven,6,6 people in household,427
+E07000139,North Kesteven,7,7 people in household,110
+E07000139,North Kesteven,8,8 or more people in household,43
+E07000140,South Holland,0,0 people in household,0
+E07000140,South Holland,1,1 person in household,11051
+E07000140,South Holland,2,2 people in household,16115
+E07000140,South Holland,3,3 people in household,6469
+E07000140,South Holland,4,4 people in household,4747
+E07000140,South Holland,5,5 people in household,1616
+E07000140,South Holland,6,6 people in household,484
+E07000140,South Holland,7,7 people in household,139
+E07000140,South Holland,8,8 or more people in household,81
+E07000141,South Kesteven,0,0 people in household,0
+E07000141,South Kesteven,1,1 person in household,18226
+E07000141,South Kesteven,2,2 people in household,24516
+E07000141,South Kesteven,3,3 people in household,9546
+E07000141,South Kesteven,4,4 people in household,7587
+E07000141,South Kesteven,5,5 people in household,2200
+E07000141,South Kesteven,6,6 people in household,571
+E07000141,South Kesteven,7,7 people in household,138
+E07000141,South Kesteven,8,8 or more people in household,66
+E07000142,West Lindsey,0,0 people in household,0
+E07000142,West Lindsey,1,1 person in household,12680
+E07000142,West Lindsey,2,2 people in household,17035
+E07000142,West Lindsey,3,3 people in household,6078
+E07000142,West Lindsey,4,4 people in household,4575
+E07000142,West Lindsey,5,5 people in household,1385
+E07000142,West Lindsey,6,6 people in household,418
+E07000142,West Lindsey,7,7 people in household,114
+E07000142,West Lindsey,8,8 or more people in household,60
+E07000143,Breckland,0,0 people in household,0
+E07000143,Breckland,1,1 person in household,16550
+E07000143,Breckland,2,2 people in household,24205
+E07000143,Breckland,3,3 people in household,9218
+E07000143,Breckland,4,4 people in household,7048
+E07000143,Breckland,5,5 people in household,2290
+E07000143,Breckland,6,6 people in household,727
+E07000143,Breckland,7,7 people in household,206
+E07000143,Breckland,8,8 or more people in household,115
+E07000144,Broadland,0,0 people in household,0
+E07000144,Broadland,1,1 person in household,16238
+E07000144,Broadland,2,2 people in household,23360
+E07000144,Broadland,3,3 people in household,8538
+E07000144,Broadland,4,4 people in household,7177
+E07000144,Broadland,5,5 people in household,1826
+E07000144,Broadland,6,6 people in household,446
+E07000144,Broadland,7,7 people in household,118
+E07000144,Broadland,8,8 or more people in household,56
+E07000145,Great Yarmouth,0,0 people in household,0
+E07000145,Great Yarmouth,1,1 person in household,14488
+E07000145,Great Yarmouth,2,2 people in household,16486
+E07000145,Great Yarmouth,3,3 people in household,6620
+E07000145,Great Yarmouth,4,4 people in household,4492
+E07000145,Great Yarmouth,5,5 people in household,1671
+E07000145,Great Yarmouth,6,6 people in household,530
+E07000145,Great Yarmouth,7,7 people in household,166
+E07000145,Great Yarmouth,8,8 or more people in household,91
+E07000146,King's Lynn and West Norfolk,0,0 people in household,0
+E07000146,King's Lynn and West Norfolk,1,1 person in household,19829
+E07000146,King's Lynn and West Norfolk,2,2 people in household,26602
+E07000146,King's Lynn and West Norfolk,3,3 people in household,9971
+E07000146,King's Lynn and West Norfolk,4,4 people in household,7405
+E07000146,King's Lynn and West Norfolk,5,5 people in household,2510
+E07000146,King's Lynn and West Norfolk,6,6 people in household,783
+E07000146,King's Lynn and West Norfolk,7,7 people in household,255
+E07000146,King's Lynn and West Norfolk,8,8 or more people in household,109
+E07000147,North Norfolk,0,0 people in household,0
+E07000147,North Norfolk,1,1 person in household,16319
+E07000147,North Norfolk,2,2 people in household,20337
+E07000147,North Norfolk,3,3 people in household,5726
+E07000147,North Norfolk,4,4 people in household,4099
+E07000147,North Norfolk,5,5 people in household,1328
+E07000147,North Norfolk,6,6 people in household,383
+E07000147,North Norfolk,7,7 people in household,130
+E07000147,North Norfolk,8,8 or more people in household,52
+E07000148,Norwich,0,0 people in household,0
+E07000148,Norwich,1,1 person in household,25098
+E07000148,Norwich,2,2 people in household,20646
+E07000148,Norwich,3,3 people in household,8800
+E07000148,Norwich,4,4 people in household,6472
+E07000148,Norwich,5,5 people in household,2307
+E07000148,Norwich,6,6 people in household,833
+E07000148,Norwich,7,7 people in household,198
+E07000148,Norwich,8,8 or more people in household,108
+E07000149,South Norfolk,0,0 people in household,0
+E07000149,South Norfolk,1,1 person in household,16990
+E07000149,South Norfolk,2,2 people in household,24606
+E07000149,South Norfolk,3,3 people in household,9127
+E07000149,South Norfolk,4,4 people in household,7793
+E07000149,South Norfolk,5,5 people in household,2106
+E07000149,South Norfolk,6,6 people in household,546
+E07000149,South Norfolk,7,7 people in household,143
+E07000149,South Norfolk,8,8 or more people in household,70
+E07000163,Craven,0,0 people in household,0
+E07000163,Craven,1,1 person in household,8440
+E07000163,Craven,2,2 people in household,10370
+E07000163,Craven,3,3 people in household,3429
+E07000163,Craven,4,4 people in household,2785
+E07000163,Craven,5,5 people in household,765
+E07000163,Craven,6,6 people in household,204
+E07000163,Craven,7,7 people in household,54
+E07000163,Craven,8,8 or more people in household,22
+E07000164,Hambleton,0,0 people in household,0
+E07000164,Hambleton,1,1 person in household,12176
+E07000164,Hambleton,2,2 people in household,16708
+E07000164,Hambleton,3,3 people in household,5801
+E07000164,Hambleton,4,4 people in household,4522
+E07000164,Hambleton,5,5 people in household,1216
+E07000164,Hambleton,6,6 people in household,284
+E07000164,Hambleton,7,7 people in household,70
+E07000164,Hambleton,8,8 or more people in household,26
+E07000165,Harrogate,0,0 people in household,0
+E07000165,Harrogate,1,1 person in household,21845
+E07000165,Harrogate,2,2 people in household,27300
+E07000165,Harrogate,3,3 people in household,10303
+E07000165,Harrogate,4,4 people in household,8740
+E07000165,Harrogate,5,5 people in household,2289
+E07000165,Harrogate,6,6 people in household,537
+E07000165,Harrogate,7,7 people in household,104
+E07000165,Harrogate,8,8 or more people in household,51
+E07000166,Richmondshire,0,0 people in household,0
+E07000166,Richmondshire,1,1 person in household,6108
+E07000166,Richmondshire,2,2 people in household,8448
+E07000166,Richmondshire,3,3 people in household,3006
+E07000166,Richmondshire,4,4 people in household,2394
+E07000166,Richmondshire,5,5 people in household,694
+E07000166,Richmondshire,6,6 people in household,226
+E07000166,Richmondshire,7,7 people in household,51
+E07000166,Richmondshire,8,8 or more people in household,17
+E07000167,Ryedale,0,0 people in household,0
+E07000167,Ryedale,1,1 person in household,7550
+E07000167,Ryedale,2,2 people in household,10178
+E07000167,Ryedale,3,3 people in household,3345
+E07000167,Ryedale,4,4 people in household,2566
+E07000167,Ryedale,5,5 people in household,803
+E07000167,Ryedale,6,6 people in household,203
+E07000167,Ryedale,7,7 people in household,49
+E07000167,Ryedale,8,8 or more people in household,22
+E07000168,Scarborough,0,0 people in household,0
+E07000168,Scarborough,1,1 person in household,18216
+E07000168,Scarborough,2,2 people in household,19496
+E07000168,Scarborough,3,3 people in household,6716
+E07000168,Scarborough,4,4 people in household,4490
+E07000168,Scarborough,5,5 people in household,1554
+E07000168,Scarborough,6,6 people in household,463
+E07000168,Scarborough,7,7 people in household,130
+E07000168,Scarborough,8,8 or more people in household,58
+E07000169,Selby,0,0 people in household,0
+E07000169,Selby,1,1 person in household,10556
+E07000169,Selby,2,2 people in household,15552
+E07000169,Selby,3,3 people in household,6469
+E07000169,Selby,4,4 people in household,5210
+E07000169,Selby,5,5 people in household,1338
+E07000169,Selby,6,6 people in household,306
+E07000169,Selby,7,7 people in household,101
+E07000169,Selby,8,8 or more people in household,27
+E07000170,Ashfield,0,0 people in household,0
+E07000170,Ashfield,1,1 person in household,16048
+E07000170,Ashfield,2,2 people in household,19882
+E07000170,Ashfield,3,3 people in household,9122
+E07000170,Ashfield,4,4 people in household,6489
+E07000170,Ashfield,5,5 people in household,2122
+E07000170,Ashfield,6,6 people in household,612
+E07000170,Ashfield,7,7 people in household,145
+E07000170,Ashfield,8,8 or more people in household,88
+E07000171,Bassetlaw,0,0 people in household,0
+E07000171,Bassetlaw,1,1 person in household,15492
+E07000171,Bassetlaw,2,2 people in household,19557
+E07000171,Bassetlaw,3,3 people in household,8094
+E07000171,Bassetlaw,4,4 people in household,5885
+E07000171,Bassetlaw,5,5 people in household,1774
+E07000171,Bassetlaw,6,6 people in household,452
+E07000171,Bassetlaw,7,7 people in household,147
+E07000171,Bassetlaw,8,8 or more people in household,57
+E07000172,Broxtowe,0,0 people in household,0
+E07000172,Broxtowe,1,1 person in household,14581
+E07000172,Broxtowe,2,2 people in household,18254
+E07000172,Broxtowe,3,3 people in household,7480
+E07000172,Broxtowe,4,4 people in household,5777
+E07000172,Broxtowe,5,5 people in household,1653
+E07000172,Broxtowe,6,6 people in household,418
+E07000172,Broxtowe,7,7 people in household,128
+E07000172,Broxtowe,8,8 or more people in household,70
+E07000173,Gedling,0,0 people in household,0
+E07000173,Gedling,1,1 person in household,15514
+E07000173,Gedling,2,2 people in household,18965
+E07000173,Gedling,3,3 people in household,8347
+E07000173,Gedling,4,4 people in household,6411
+E07000173,Gedling,5,5 people in household,1673
+E07000173,Gedling,6,6 people in household,443
+E07000173,Gedling,7,7 people in household,139
+E07000173,Gedling,8,8 or more people in household,61
+E07000174,Mansfield,0,0 people in household,0
+E07000174,Mansfield,1,1 person in household,14471
+E07000174,Mansfield,2,2 people in household,17313
+E07000174,Mansfield,3,3 people in household,7982
+E07000174,Mansfield,4,4 people in household,5729
+E07000174,Mansfield,5,5 people in household,1802
+E07000174,Mansfield,6,6 people in household,513
+E07000174,Mansfield,7,7 people in household,149
+E07000174,Mansfield,8,8 or more people in household,73
+E07000175,Newark and Sherwood,0,0 people in household,0
+E07000175,Newark and Sherwood,1,1 person in household,15746
+E07000175,Newark and Sherwood,2,2 people in household,20392
+E07000175,Newark and Sherwood,3,3 people in household,8322
+E07000175,Newark and Sherwood,4,4 people in household,6267
+E07000175,Newark and Sherwood,5,5 people in household,1893
+E07000175,Newark and Sherwood,6,6 people in household,508
+E07000175,Newark and Sherwood,7,7 people in household,137
+E07000175,Newark and Sherwood,8,8 or more people in household,68
+E07000176,Rushcliffe,0,0 people in household,0
+E07000176,Rushcliffe,1,1 person in household,13822
+E07000176,Rushcliffe,2,2 people in household,18574
+E07000176,Rushcliffe,3,3 people in household,7795
+E07000176,Rushcliffe,4,4 people in household,7172
+E07000176,Rushcliffe,5,5 people in household,1911
+E07000176,Rushcliffe,6,6 people in household,432
+E07000176,Rushcliffe,7,7 people in household,123
+E07000176,Rushcliffe,8,8 or more people in household,53
+E07000177,Cherwell,0,0 people in household,0
+E07000177,Cherwell,1,1 person in household,17339
+E07000177,Cherwell,2,2 people in household,23650
+E07000177,Cherwell,3,3 people in household,11378
+E07000177,Cherwell,4,4 people in household,9456
+E07000177,Cherwell,5,5 people in household,2834
+E07000177,Cherwell,6,6 people in household,845
+E07000177,Cherwell,7,7 people in household,243
+E07000177,Cherwell,8,8 or more people in household,148
+E07000178,Oxford,0,0 people in household,0
+E07000178,Oxford,1,1 person in household,16096
+E07000178,Oxford,2,2 people in household,17088
+E07000178,Oxford,3,3 people in household,8842
+E07000178,Oxford,4,4 people in household,7476
+E07000178,Oxford,5,5 people in household,3182
+E07000178,Oxford,6,6 people in household,1310
+E07000178,Oxford,7,7 people in household,682
+E07000178,Oxford,8,8 or more people in household,563
+E07000179,South Oxfordshire,0,0 people in household,0
+E07000179,South Oxfordshire,1,1 person in household,16105
+E07000179,South Oxfordshire,2,2 people in household,22830
+E07000179,South Oxfordshire,3,3 people in household,10037
+E07000179,South Oxfordshire,4,4 people in household,9007
+E07000179,South Oxfordshire,5,5 people in household,2639
+E07000179,South Oxfordshire,6,6 people in household,640
+E07000179,South Oxfordshire,7,7 people in household,165
+E07000179,South Oxfordshire,8,8 or more people in household,74
+E07000180,Vale of White Horse,0,0 people in household,0
+E07000180,Vale of White Horse,1,1 person in household,15437
+E07000180,Vale of White Horse,2,2 people in household,21323
+E07000180,Vale of White Horse,3,3 people in household,9425
+E07000180,Vale of White Horse,4,4 people in household,8098
+E07000180,Vale of White Horse,5,5 people in household,2408
+E07000180,Vale of White Horse,6,6 people in household,590
+E07000180,Vale of White Horse,7,7 people in household,152
+E07000180,Vale of White Horse,8,8 or more people in household,65
+E07000181,West Oxfordshire,0,0 people in household,0
+E07000181,West Oxfordshire,1,1 person in household,13206
+E07000181,West Oxfordshire,2,2 people in household,18068
+E07000181,West Oxfordshire,3,3 people in household,7774
+E07000181,West Oxfordshire,4,4 people in household,6394
+E07000181,West Oxfordshire,5,5 people in household,1934
+E07000181,West Oxfordshire,6,6 people in household,444
+E07000181,West Oxfordshire,7,7 people in household,109
+E07000181,West Oxfordshire,8,8 or more people in household,52
+E07000187,Mendip,0,0 people in household,0
+E07000187,Mendip,1,1 person in household,15152
+E07000187,Mendip,2,2 people in household,18961
+E07000187,Mendip,3,3 people in household,7544
+E07000187,Mendip,4,4 people in household,6082
+E07000187,Mendip,5,5 people in household,1828
+E07000187,Mendip,6,6 people in household,530
+E07000187,Mendip,7,7 people in household,142
+E07000187,Mendip,8,8 or more people in household,54
+E07000188,Sedgemoor,0,0 people in household,0
+E07000188,Sedgemoor,1,1 person in household,15620
+E07000188,Sedgemoor,2,2 people in household,20551
+E07000188,Sedgemoor,3,3 people in household,8241
+E07000188,Sedgemoor,4,4 people in household,6392
+E07000188,Sedgemoor,5,5 people in household,2149
+E07000188,Sedgemoor,6,6 people in household,643
+E07000188,Sedgemoor,7,7 people in household,201
+E07000188,Sedgemoor,8,8 or more people in household,106
+E07000189,South Somerset,0,0 people in household,0
+E07000189,South Somerset,1,1 person in household,22859
+E07000189,South Somerset,2,2 people in household,29764
+E07000189,South Somerset,3,3 people in household,10986
+E07000189,South Somerset,4,4 people in household,8524
+E07000189,South Somerset,5,5 people in household,2729
+E07000189,South Somerset,6,6 people in household,756
+E07000189,South Somerset,7,7 people in household,206
+E07000189,South Somerset,8,8 or more people in household,113
+E07000192,Cannock Chase,0,0 people in household,0
+E07000192,Cannock Chase,1,1 person in household,12573
+E07000192,Cannock Chase,2,2 people in household,15861
+E07000192,Cannock Chase,3,3 people in household,7502
+E07000192,Cannock Chase,4,4 people in household,5234
+E07000192,Cannock Chase,5,5 people in household,1712
+E07000192,Cannock Chase,6,6 people in household,414
+E07000192,Cannock Chase,7,7 people in household,105
+E07000192,Cannock Chase,8,8 or more people in household,59
+E07000193,East Staffordshire,0,0 people in household,0
+E07000193,East Staffordshire,1,1 person in household,14760
+E07000193,East Staffordshire,2,2 people in household,18209
+E07000193,East Staffordshire,3,3 people in household,8252
+E07000193,East Staffordshire,4,4 people in household,6446
+E07000193,East Staffordshire,5,5 people in household,2305
+E07000193,East Staffordshire,6,6 people in household,822
+E07000193,East Staffordshire,7,7 people in household,290
+E07000193,East Staffordshire,8,8 or more people in household,208
+E07000194,Lichfield,0,0 people in household,0
+E07000194,Lichfield,1,1 person in household,12662
+E07000194,Lichfield,2,2 people in household,17587
+E07000194,Lichfield,3,3 people in household,7377
+E07000194,Lichfield,4,4 people in household,5810
+E07000194,Lichfield,5,5 people in household,1610
+E07000194,Lichfield,6,6 people in household,411
+E07000194,Lichfield,7,7 people in household,111
+E07000194,Lichfield,8,8 or more people in household,62
+E07000195,Newcastle-under-Lyme,0,0 people in household,0
+E07000195,Newcastle-under-Lyme,1,1 person in household,16588
+E07000195,Newcastle-under-Lyme,2,2 people in household,19527
+E07000195,Newcastle-under-Lyme,3,3 people in household,8551
+E07000195,Newcastle-under-Lyme,4,4 people in household,6124
+E07000195,Newcastle-under-Lyme,5,5 people in household,1872
+E07000195,Newcastle-under-Lyme,6,6 people in household,536
+E07000195,Newcastle-under-Lyme,7,7 people in household,149
+E07000195,Newcastle-under-Lyme,8,8 or more people in household,76
+E07000196,South Staffordshire,0,0 people in household,0
+E07000196,South Staffordshire,1,1 person in household,12558
+E07000196,South Staffordshire,2,2 people in household,17896
+E07000196,South Staffordshire,3,3 people in household,7497
+E07000196,South Staffordshire,4,4 people in household,5910
+E07000196,South Staffordshire,5,5 people in household,1664
+E07000196,South Staffordshire,6,6 people in household,425
+E07000196,South Staffordshire,7,7 people in household,115
+E07000196,South Staffordshire,8,8 or more people in household,56
+E07000197,Stafford,0,0 people in household,0
+E07000197,Stafford,1,1 person in household,17754
+E07000197,Stafford,2,2 people in household,23322
+E07000197,Stafford,3,3 people in household,9227
+E07000197,Stafford,4,4 people in household,7128
+E07000197,Stafford,5,5 people in household,1946
+E07000197,Stafford,6,6 people in household,470
+E07000197,Stafford,7,7 people in household,135
+E07000197,Stafford,8,8 or more people in household,65
+E07000198,Staffordshire Moorlands,0,0 people in household,0
+E07000198,Staffordshire Moorlands,1,1 person in household,12536
+E07000198,Staffordshire Moorlands,2,2 people in household,16629
+E07000198,Staffordshire Moorlands,3,3 people in household,6332
+E07000198,Staffordshire Moorlands,4,4 people in household,4873
+E07000198,Staffordshire Moorlands,5,5 people in household,1490
+E07000198,Staffordshire Moorlands,6,6 people in household,345
+E07000198,Staffordshire Moorlands,7,7 people in household,100
+E07000198,Staffordshire Moorlands,8,8 or more people in household,46
+E07000199,Tamworth,0,0 people in household,0
+E07000199,Tamworth,1,1 person in household,8787
+E07000199,Tamworth,2,2 people in household,11893
+E07000199,Tamworth,3,3 people in household,5878
+E07000199,Tamworth,4,4 people in household,4379
+E07000199,Tamworth,5,5 people in household,1395
+E07000199,Tamworth,6,6 people in household,391
+E07000199,Tamworth,7,7 people in household,116
+E07000199,Tamworth,8,8 or more people in household,57
+E07000200,Babergh,0,0 people in household,0
+E07000200,Babergh,1,1 person in household,11382
+E07000200,Babergh,2,2 people in household,16109
+E07000200,Babergh,3,3 people in household,5902
+E07000200,Babergh,4,4 people in household,4861
+E07000200,Babergh,5,5 people in household,1439
+E07000200,Babergh,6,6 people in household,382
+E07000200,Babergh,7,7 people in household,98
+E07000200,Babergh,8,8 or more people in household,30
+E07000202,Ipswich,0,0 people in household,0
+E07000202,Ipswich,1,1 person in household,19270
+E07000202,Ipswich,2,2 people in household,19363
+E07000202,Ipswich,3,3 people in household,9409
+E07000202,Ipswich,4,4 people in household,7452
+E07000202,Ipswich,5,5 people in household,2723
+E07000202,Ipswich,6,6 people in household,895
+E07000202,Ipswich,7,7 people in household,277
+E07000202,Ipswich,8,8 or more people in household,121
+E07000203,Mid Suffolk,0,0 people in household,0
+E07000203,Mid Suffolk,1,1 person in household,11983
+E07000203,Mid Suffolk,2,2 people in household,18369
+E07000203,Mid Suffolk,3,3 people in household,6354
+E07000203,Mid Suffolk,4,4 people in household,5408
+E07000203,Mid Suffolk,5,5 people in household,1601
+E07000203,Mid Suffolk,6,6 people in household,443
+E07000203,Mid Suffolk,7,7 people in household,128
+E07000203,Mid Suffolk,8,8 or more people in household,58
+E07000207,Elmbridge,0,0 people in household,0
+E07000207,Elmbridge,1,1 person in household,14972
+E07000207,Elmbridge,2,2 people in household,17591
+E07000207,Elmbridge,3,3 people in household,9490
+E07000207,Elmbridge,4,4 people in household,10074
+E07000207,Elmbridge,5,5 people in household,2721
+E07000207,Elmbridge,6,6 people in household,554
+E07000207,Elmbridge,7,7 people in household,136
+E07000207,Elmbridge,8,8 or more people in household,53
+E07000208,Epsom and Ewell,0,0 people in household,0
+E07000208,Epsom and Ewell,1,1 person in household,7625
+E07000208,Epsom and Ewell,2,2 people in household,9961
+E07000208,Epsom and Ewell,3,3 people in household,5705
+E07000208,Epsom and Ewell,4,4 people in household,5782
+E07000208,Epsom and Ewell,5,5 people in household,1616
+E07000208,Epsom and Ewell,6,6 people in household,415
+E07000208,Epsom and Ewell,7,7 people in household,135
+E07000208,Epsom and Ewell,8,8 or more people in household,81
+E07000209,Guildford,0,0 people in household,0
+E07000209,Guildford,1,1 person in household,14840
+E07000209,Guildford,2,2 people in household,19409
+E07000209,Guildford,3,3 people in household,9288
+E07000209,Guildford,4,4 people in household,8706
+E07000209,Guildford,5,5 people in household,2597
+E07000209,Guildford,6,6 people in household,672
+E07000209,Guildford,7,7 people in household,162
+E07000209,Guildford,8,8 or more people in household,89
+E07000210,Mole Valley,0,0 people in household,0
+E07000210,Mole Valley,1,1 person in household,11053
+E07000210,Mole Valley,2,2 people in household,13163
+E07000210,Mole Valley,3,3 people in household,5699
+E07000210,Mole Valley,4,4 people in household,5208
+E07000210,Mole Valley,5,5 people in household,1515
+E07000210,Mole Valley,6,6 people in household,356
+E07000210,Mole Valley,7,7 people in household,94
+E07000210,Mole Valley,8,8 or more people in household,52
+E07000211,Reigate and Banstead,0,0 people in household,0
+E07000211,Reigate and Banstead,1,1 person in household,15797
+E07000211,Reigate and Banstead,2,2 people in household,19597
+E07000211,Reigate and Banstead,3,3 people in household,10617
+E07000211,Reigate and Banstead,4,4 people in household,9950
+E07000211,Reigate and Banstead,5,5 people in household,2869
+E07000211,Reigate and Banstead,6,6 people in household,732
+E07000211,Reigate and Banstead,7,7 people in household,183
+E07000211,Reigate and Banstead,8,8 or more people in household,104
+E07000212,Runnymede,0,0 people in household,0
+E07000212,Runnymede,1,1 person in household,9939
+E07000212,Runnymede,2,2 people in household,11461
+E07000212,Runnymede,3,3 people in household,5859
+E07000212,Runnymede,4,4 people in household,5188
+E07000212,Runnymede,5,5 people in household,1678
+E07000212,Runnymede,6,6 people in household,501
+E07000212,Runnymede,7,7 people in household,146
+E07000212,Runnymede,8,8 or more people in household,67
+E07000213,Spelthorne,0,0 people in household,0
+E07000213,Spelthorne,1,1 person in household,11665
+E07000213,Spelthorne,2,2 people in household,13315
+E07000213,Spelthorne,3,3 people in household,7490
+E07000213,Spelthorne,4,4 people in household,6538
+E07000213,Spelthorne,5,5 people in household,1956
+E07000213,Spelthorne,6,6 people in household,560
+E07000213,Spelthorne,7,7 people in household,179
+E07000213,Spelthorne,8,8 or more people in household,102
+E07000214,Surrey Heath,0,0 people in household,0
+E07000214,Surrey Heath,1,1 person in household,9067
+E07000214,Surrey Heath,2,2 people in household,12523
+E07000214,Surrey Heath,3,3 people in household,6175
+E07000214,Surrey Heath,4,4 people in household,5919
+E07000214,Surrey Heath,5,5 people in household,1662
+E07000214,Surrey Heath,6,6 people in household,464
+E07000214,Surrey Heath,7,7 people in household,141
+E07000214,Surrey Heath,8,8 or more people in household,57
+E07000215,Tandridge,0,0 people in household,0
+E07000215,Tandridge,1,1 person in household,9702
+E07000215,Tandridge,2,2 people in household,12155
+E07000215,Tandridge,3,3 people in household,6020
+E07000215,Tandridge,4,4 people in household,5551
+E07000215,Tandridge,5,5 people in household,1616
+E07000215,Tandridge,6,6 people in household,416
+E07000215,Tandridge,7,7 people in household,109
+E07000215,Tandridge,8,8 or more people in household,54
+E07000216,Waverley,0,0 people in household,0
+E07000216,Waverley,1,1 person in household,14642
+E07000216,Waverley,2,2 people in household,18641
+E07000216,Waverley,3,3 people in household,8096
+E07000216,Waverley,4,4 people in household,8118
+E07000216,Waverley,5,5 people in household,2315
+E07000216,Waverley,6,6 people in household,462
+E07000216,Waverley,7,7 people in household,122
+E07000216,Waverley,8,8 or more people in household,52
+E07000217,Woking,0,0 people in household,0
+E07000217,Woking,1,1 person in household,11124
+E07000217,Woking,2,2 people in household,13518
+E07000217,Woking,3,3 people in household,6998
+E07000217,Woking,4,4 people in household,6671
+E07000217,Woking,5,5 people in household,2068
+E07000217,Woking,6,6 people in household,664
+E07000217,Woking,7,7 people in household,235
+E07000217,Woking,8,8 or more people in household,158
+E07000218,North Warwickshire,0,0 people in household,0
+E07000218,North Warwickshire,1,1 person in household,7642
+E07000218,North Warwickshire,2,2 people in household,10250
+E07000218,North Warwickshire,3,3 people in household,4628
+E07000218,North Warwickshire,4,4 people in household,3556
+E07000218,North Warwickshire,5,5 people in household,1084
+E07000218,North Warwickshire,6,6 people in household,301
+E07000218,North Warwickshire,7,7 people in household,89
+E07000218,North Warwickshire,8,8 or more people in household,30
+E07000219,Nuneaton and Bedworth,0,0 people in household,0
+E07000219,Nuneaton and Bedworth,1,1 person in household,16345
+E07000219,Nuneaton and Bedworth,2,2 people in household,19618
+E07000219,Nuneaton and Bedworth,3,3 people in household,9818
+E07000219,Nuneaton and Bedworth,4,4 people in household,7198
+E07000219,Nuneaton and Bedworth,5,5 people in household,2515
+E07000219,Nuneaton and Bedworth,6,6 people in household,776
+E07000219,Nuneaton and Bedworth,7,7 people in household,206
+E07000219,Nuneaton and Bedworth,8,8 or more people in household,110
+E07000220,Rugby,0,0 people in household,0
+E07000220,Rugby,1,1 person in household,12774
+E07000220,Rugby,2,2 people in household,16643
+E07000220,Rugby,3,3 people in household,8006
+E07000220,Rugby,4,4 people in household,6708
+E07000220,Rugby,5,5 people in household,2044
+E07000220,Rugby,6,6 people in household,548
+E07000220,Rugby,7,7 people in household,179
+E07000220,Rugby,8,8 or more people in household,111
+E07000221,Stratford-on-Avon,0,0 people in household,0
+E07000221,Stratford-on-Avon,1,1 person in household,17306
+E07000221,Stratford-on-Avon,2,2 people in household,23415
+E07000221,Stratford-on-Avon,3,3 people in household,9057
+E07000221,Stratford-on-Avon,4,4 people in household,7099
+E07000221,Stratford-on-Avon,5,5 people in household,1922
+E07000221,Stratford-on-Avon,6,6 people in household,471
+E07000221,Stratford-on-Avon,7,7 people in household,127
+E07000221,Stratford-on-Avon,8,8 or more people in household,67
+E07000222,Warwick,0,0 people in household,0
+E07000222,Warwick,1,1 person in household,18999
+E07000222,Warwick,2,2 people in household,21917
+E07000222,Warwick,3,3 people in household,9921
+E07000222,Warwick,4,4 people in household,8495
+E07000222,Warwick,5,5 people in household,2272
+E07000222,Warwick,6,6 people in household,683
+E07000222,Warwick,7,7 people in household,212
+E07000222,Warwick,8,8 or more people in household,120
+E07000223,Adur,0,0 people in household,0
+E07000223,Adur,1,1 person in household,8414
+E07000223,Adur,2,2 people in household,9684
+E07000223,Adur,3,3 people in household,4360
+E07000223,Adur,4,4 people in household,3696
+E07000223,Adur,5,5 people in household,1128
+E07000223,Adur,6,6 people in household,269
+E07000223,Adur,7,7 people in household,85
+E07000223,Adur,8,8 or more people in household,41
+E07000224,Arun,0,0 people in household,0
+E07000224,Arun,1,1 person in household,22768
+E07000224,Arun,2,2 people in household,27801
+E07000224,Arun,3,3 people in household,10420
+E07000224,Arun,4,4 people in household,8088
+E07000224,Arun,5,5 people in household,2553
+E07000224,Arun,6,6 people in household,713
+E07000224,Arun,7,7 people in household,209
+E07000224,Arun,8,8 or more people in household,109
+E07000225,Chichester,0,0 people in household,0
+E07000225,Chichester,1,1 person in household,16841
+E07000225,Chichester,2,2 people in household,20980
+E07000225,Chichester,3,3 people in household,7468
+E07000225,Chichester,4,4 people in household,6187
+E07000225,Chichester,5,5 people in household,1946
+E07000225,Chichester,6,6 people in household,505
+E07000225,Chichester,7,7 people in household,134
+E07000225,Chichester,8,8 or more people in household,61
+E07000226,Crawley,0,0 people in household,0
+E07000226,Crawley,1,1 person in household,11517
+E07000226,Crawley,2,2 people in household,13987
+E07000226,Crawley,3,3 people in household,8280
+E07000226,Crawley,4,4 people in household,7360
+E07000226,Crawley,5,5 people in household,2792
+E07000226,Crawley,6,6 people in household,1056
+E07000226,Crawley,7,7 people in household,322
+E07000226,Crawley,8,8 or more people in household,188
+E07000227,Horsham,0,0 people in household,0
+E07000227,Horsham,1,1 person in household,17535
+E07000227,Horsham,2,2 people in household,23545
+E07000227,Horsham,3,3 people in household,9676
+E07000227,Horsham,4,4 people in household,8486
+E07000227,Horsham,5,5 people in household,2365
+E07000227,Horsham,6,6 people in household,585
+E07000227,Horsham,7,7 people in household,109
+E07000227,Horsham,8,8 or more people in household,67
+E07000228,Mid Sussex,0,0 people in household,0
+E07000228,Mid Sussex,1,1 person in household,17421
+E07000228,Mid Sussex,2,2 people in household,22501
+E07000228,Mid Sussex,3,3 people in household,10289
+E07000228,Mid Sussex,4,4 people in household,9613
+E07000228,Mid Sussex,5,5 people in household,2682
+E07000228,Mid Sussex,6,6 people in household,625
+E07000228,Mid Sussex,7,7 people in household,134
+E07000228,Mid Sussex,8,8 or more people in household,84
+E07000229,Worthing,0,0 people in household,0
+E07000229,Worthing,1,1 person in household,16764
+E07000229,Worthing,2,2 people in household,17066
+E07000229,Worthing,3,3 people in household,7455
+E07000229,Worthing,4,4 people in household,5837
+E07000229,Worthing,5,5 people in household,1729
+E07000229,Worthing,6,6 people in household,495
+E07000229,Worthing,7,7 people in household,132
+E07000229,Worthing,8,8 or more people in household,57
+E07000234,Bromsgrove,0,0 people in household,0
+E07000234,Bromsgrove,1,1 person in household,11293
+E07000234,Bromsgrove,2,2 people in household,15069
+E07000234,Bromsgrove,3,3 people in household,6809
+E07000234,Bromsgrove,4,4 people in household,5932
+E07000234,Bromsgrove,5,5 people in household,1606
+E07000234,Bromsgrove,6,6 people in household,398
+E07000234,Bromsgrove,7,7 people in household,108
+E07000234,Bromsgrove,8,8 or more people in household,50
+E07000235,Malvern Hills,0,0 people in household,0
+E07000235,Malvern Hills,1,1 person in household,10303
+E07000235,Malvern Hills,2,2 people in household,14028
+E07000235,Malvern Hills,3,3 people in household,5071
+E07000235,Malvern Hills,4,4 people in household,3941
+E07000235,Malvern Hills,5,5 people in household,1132
+E07000235,Malvern Hills,6,6 people in household,307
+E07000235,Malvern Hills,7,7 people in household,73
+E07000235,Malvern Hills,8,8 or more people in household,35
+E07000236,Redditch,0,0 people in household,0
+E07000236,Redditch,1,1 person in household,10102
+E07000236,Redditch,2,2 people in household,12798
+E07000236,Redditch,3,3 people in household,6307
+E07000236,Redditch,4,4 people in household,4817
+E07000236,Redditch,5,5 people in household,1647
+E07000236,Redditch,6,6 people in household,488
+E07000236,Redditch,7,7 people in household,141
+E07000236,Redditch,8,8 or more people in household,78
+E07000237,Worcester,0,0 people in household,0
+E07000237,Worcester,1,1 person in household,14157
+E07000237,Worcester,2,2 people in household,15492
+E07000237,Worcester,3,3 people in household,7127
+E07000237,Worcester,4,4 people in household,5447
+E07000237,Worcester,5,5 people in household,1689
+E07000237,Worcester,6,6 people in household,548
+E07000237,Worcester,7,7 people in household,168
+E07000237,Worcester,8,8 or more people in household,96
+E07000238,Wychavon,0,0 people in household,0
+E07000238,Wychavon,1,1 person in household,15847
+E07000238,Wychavon,2,2 people in household,22833
+E07000238,Wychavon,3,3 people in household,8872
+E07000238,Wychavon,4,4 people in household,7097
+E07000238,Wychavon,5,5 people in household,2018
+E07000238,Wychavon,6,6 people in household,497
+E07000238,Wychavon,7,7 people in household,143
+E07000238,Wychavon,8,8 or more people in household,50
+E07000239,Wyre Forest,0,0 people in household,0
+E07000239,Wyre Forest,1,1 person in household,14377
+E07000239,Wyre Forest,2,2 people in household,16969
+E07000239,Wyre Forest,3,3 people in household,6729
+E07000239,Wyre Forest,4,4 people in household,5068
+E07000239,Wyre Forest,5,5 people in household,1546
+E07000239,Wyre Forest,6,6 people in household,418
+E07000239,Wyre Forest,7,7 people in household,145
+E07000239,Wyre Forest,8,8 or more people in household,66
+E07000240,St Albans,0,0 people in household,0
+E07000240,St Albans,1,1 person in household,15527
+E07000240,St Albans,2,2 people in household,18943
+E07000240,St Albans,3,3 people in household,9958
+E07000240,St Albans,4,4 people in household,10556
+E07000240,St Albans,5,5 people in household,3040
+E07000240,St Albans,6,6 people in household,683
+E07000240,St Albans,7,7 people in household,190
+E07000240,St Albans,8,8 or more people in household,93
+E07000241,Welwyn Hatfield,0,0 people in household,0
+E07000241,Welwyn Hatfield,1,1 person in household,12928
+E07000241,Welwyn Hatfield,2,2 people in household,14321
+E07000241,Welwyn Hatfield,3,3 people in household,8115
+E07000241,Welwyn Hatfield,4,4 people in household,7266
+E07000241,Welwyn Hatfield,5,5 people in household,2403
+E07000241,Welwyn Hatfield,6,6 people in household,794
+E07000241,Welwyn Hatfield,7,7 people in household,212
+E07000241,Welwyn Hatfield,8,8 or more people in household,172
+E07000242,East Hertfordshire,0,0 people in household,0
+E07000242,East Hertfordshire,1,1 person in household,16952
+E07000242,East Hertfordshire,2,2 people in household,21563
+E07000242,East Hertfordshire,3,3 people in household,10360
+E07000242,East Hertfordshire,4,4 people in household,9683
+E07000242,East Hertfordshire,5,5 people in household,2694
+E07000242,East Hertfordshire,6,6 people in household,609
+E07000242,East Hertfordshire,7,7 people in household,111
+E07000242,East Hertfordshire,8,8 or more people in household,50
+E07000243,Stevenage,0,0 people in household,0
+E07000243,Stevenage,1,1 person in household,10568
+E07000243,Stevenage,2,2 people in household,11475
+E07000243,Stevenage,3,3 people in household,6468
+E07000243,Stevenage,4,4 people in household,5300
+E07000243,Stevenage,5,5 people in household,1841
+E07000243,Stevenage,6,6 people in household,624
+E07000243,Stevenage,7,7 people in household,157
+E07000243,Stevenage,8,8 or more people in household,79
+E07000244,East Suffolk,0,0 people in household,0
+E07000244,East Suffolk,1,1 person in household,35819
+E07000244,East Suffolk,2,2 people in household,42792
+E07000244,East Suffolk,3,3 people in household,14923
+E07000244,East Suffolk,4,4 people in household,11923
+E07000244,East Suffolk,5,5 people in household,3838
+E07000244,East Suffolk,6,6 people in household,1028
+E07000244,East Suffolk,7,7 people in household,296
+E07000244,East Suffolk,8,8 or more people in household,130
+E07000245,West Suffolk,0,0 people in household,0
+E07000245,West Suffolk,1,1 person in household,25490
+E07000245,West Suffolk,2,2 people in household,28502
+E07000245,West Suffolk,3,3 people in household,11494
+E07000245,West Suffolk,4,4 people in household,9288
+E07000245,West Suffolk,5,5 people in household,2895
+E07000245,West Suffolk,6,6 people in household,778
+E07000245,West Suffolk,7,7 people in household,211
+E07000245,West Suffolk,8,8 or more people in household,88
+E07000246,Somerset West and Taunton,0,0 people in household,0
+E07000246,Somerset West and Taunton,1,1 person in household,22397
+E07000246,Somerset West and Taunton,2,2 people in household,26771
+E07000246,Somerset West and Taunton,3,3 people in household,9828
+E07000246,Somerset West and Taunton,4,4 people in household,7568
+E07000246,Somerset West and Taunton,5,5 people in household,2479
+E07000246,Somerset West and Taunton,6,6 people in household,651
+E07000246,Somerset West and Taunton,7,7 people in household,178
+E07000246,Somerset West and Taunton,8,8 or more people in household,114
+E08000001,Bolton,0,0 people in household,0
+E08000001,Bolton,1,1 person in household,36521
+E08000001,Bolton,2,2 people in household,36766
+E08000001,Bolton,3,3 people in household,19218
+E08000001,Bolton,4,4 people in household,15001
+E08000001,Bolton,5,5 people in household,6336
+E08000001,Bolton,6,6 people in household,2696
+E08000001,Bolton,7,7 people in household,1169
+E08000001,Bolton,8,8 or more people in household,1084
+E08000002,Bury,0,0 people in household,0
+E08000002,Bury,1,1 person in household,24880
+E08000002,Bury,2,2 people in household,26584
+E08000002,Bury,3,3 people in household,13122
+E08000002,Bury,4,4 people in household,10148
+E08000002,Bury,5,5 people in household,3621
+E08000002,Bury,6,6 people in household,1356
+E08000002,Bury,7,7 people in household,555
+E08000002,Bury,8,8 or more people in household,429
+E08000003,Manchester,0,0 people in household,0
+E08000003,Manchester,1,1 person in household,71577
+E08000003,Manchester,2,2 people in household,62664
+E08000003,Manchester,3,3 people in household,32180
+E08000003,Manchester,4,4 people in household,24487
+E08000003,Manchester,5,5 people in household,12817
+E08000003,Manchester,6,6 people in household,6275
+E08000003,Manchester,7,7 people in household,2700
+E08000003,Manchester,8,8 or more people in household,2029
+E08000004,Oldham,0,0 people in household,0
+E08000004,Oldham,1,1 person in household,27396
+E08000004,Oldham,2,2 people in household,28070
+E08000004,Oldham,3,3 people in household,15256
+E08000004,Oldham,4,4 people in household,11738
+E08000004,Oldham,5,5 people in household,5397
+E08000004,Oldham,6,6 people in household,2743
+E08000004,Oldham,7,7 people in household,1261
+E08000004,Oldham,8,8 or more people in household,1278
+E08000005,Rochdale,0,0 people in household,0
+E08000005,Rochdale,1,1 person in household,27641
+E08000005,Rochdale,2,2 people in household,27854
+E08000005,Rochdale,3,3 people in household,14951
+E08000005,Rochdale,4,4 people in household,11210
+E08000005,Rochdale,5,5 people in household,5003
+E08000005,Rochdale,6,6 people in household,2146
+E08000005,Rochdale,7,7 people in household,849
+E08000005,Rochdale,8,8 or more people in household,569
+E08000006,Salford,0,0 people in household,0
+E08000006,Salford,1,1 person in household,39141
+E08000006,Salford,2,2 people in household,37670
+E08000006,Salford,3,3 people in household,18097
+E08000006,Salford,4,4 people in household,12359
+E08000006,Salford,5,5 people in household,4608
+E08000006,Salford,6,6 people in household,1794
+E08000006,Salford,7,7 people in household,664
+E08000006,Salford,8,8 or more people in household,785
+E08000007,Stockport,0,0 people in household,0
+E08000007,Stockport,1,1 person in household,39439
+E08000007,Stockport,2,2 people in household,42565
+E08000007,Stockport,3,3 people in household,20627
+E08000007,Stockport,4,4 people in household,16999
+E08000007,Stockport,5,5 people in household,5049
+E08000007,Stockport,6,6 people in household,1328
+E08000007,Stockport,7,7 people in household,399
+E08000007,Stockport,8,8 or more people in household,239
+E08000008,Tameside,0,0 people in household,0
+E08000008,Tameside,1,1 person in household,32374
+E08000008,Tameside,2,2 people in household,32399
+E08000008,Tameside,3,3 people in household,16536
+E08000008,Tameside,4,4 people in household,11845
+E08000008,Tameside,5,5 people in household,4169
+E08000008,Tameside,6,6 people in household,1370
+E08000008,Tameside,7,7 people in household,488
+E08000008,Tameside,8,8 or more people in household,346
+E08000009,Trafford,0,0 people in household,0
+E08000009,Trafford,1,1 person in household,28369
+E08000009,Trafford,2,2 people in household,30169
+E08000009,Trafford,3,3 people in household,16038
+E08000009,Trafford,4,4 people in household,14824
+E08000009,Trafford,5,5 people in household,4766
+E08000009,Trafford,6,6 people in household,1448
+E08000009,Trafford,7,7 people in household,410
+E08000009,Trafford,8,8 or more people in household,245
+E08000010,Wigan,0,0 people in household,0
+E08000010,Wigan,1,1 person in household,43950
+E08000010,Wigan,2,2 people in household,49686
+E08000010,Wigan,3,3 people in household,24370
+E08000010,Wigan,4,4 people in household,17771
+E08000010,Wigan,5,5 people in household,5425
+E08000010,Wigan,6,6 people in household,1366
+E08000010,Wigan,7,7 people in household,365
+E08000010,Wigan,8,8 or more people in household,172
+E08000011,Knowsley,0,0 people in household,0
+E08000011,Knowsley,1,1 person in household,20645
+E08000011,Knowsley,2,2 people in household,20770
+E08000011,Knowsley,3,3 people in household,12369
+E08000011,Knowsley,4,4 people in household,8436
+E08000011,Knowsley,5,5 people in household,2832
+E08000011,Knowsley,6,6 people in household,758
+E08000011,Knowsley,7,7 people in household,194
+E08000011,Knowsley,8,8 or more people in household,69
+E08000012,Liverpool,0,0 people in household,0
+E08000012,Liverpool,1,1 person in household,76340
+E08000012,Liverpool,2,2 people in household,62338
+E08000012,Liverpool,3,3 people in household,32801
+E08000012,Liverpool,4,4 people in household,23081
+E08000012,Liverpool,5,5 people in household,8364
+E08000012,Liverpool,6,6 people in household,2854
+E08000012,Liverpool,7,7 people in household,1054
+E08000012,Liverpool,8,8 or more people in household,659
+E08000013,St. Helens,0,0 people in household,0
+E08000013,St. Helens,1,1 person in household,25561
+E08000013,St. Helens,2,2 people in household,28261
+E08000013,St. Helens,3,3 people in household,13961
+E08000013,St. Helens,4,4 people in household,9445
+E08000013,St. Helens,5,5 people in household,2798
+E08000013,St. Helens,6,6 people in household,716
+E08000013,St. Helens,7,7 people in household,188
+E08000013,St. Helens,8,8 or more people in household,81
+E08000014,Sefton,0,0 people in household,0
+E08000014,Sefton,1,1 person in household,41520
+E08000014,Sefton,2,2 people in household,40852
+E08000014,Sefton,3,3 people in household,19654
+E08000014,Sefton,4,4 people in household,14538
+E08000014,Sefton,5,5 people in household,4632
+E08000014,Sefton,6,6 people in household,1297
+E08000014,Sefton,7,7 people in household,334
+E08000014,Sefton,8,8 or more people in household,249
+E08000015,Wirral,0,0 people in household,0
+E08000015,Wirral,1,1 person in household,49688
+E08000015,Wirral,2,2 people in household,47215
+E08000015,Wirral,3,3 people in household,22413
+E08000015,Wirral,4,4 people in household,16632
+E08000015,Wirral,5,5 people in household,5260
+E08000015,Wirral,6,6 people in household,1411
+E08000015,Wirral,7,7 people in household,424
+E08000015,Wirral,8,8 or more people in household,209
+E08000016,Barnsley,0,0 people in household,0
+E08000016,Barnsley,1,1 person in household,33289
+E08000016,Barnsley,2,2 people in household,39307
+E08000016,Barnsley,3,3 people in household,17958
+E08000016,Barnsley,4,4 people in household,12350
+E08000016,Barnsley,5,5 people in household,3775
+E08000016,Barnsley,6,6 people in household,987
+E08000016,Barnsley,7,7 people in household,256
+E08000016,Barnsley,8,8 or more people in household,128
+E08000017,Doncaster,0,0 people in household,0
+E08000017,Doncaster,1,1 person in household,41667
+E08000017,Doncaster,2,2 people in household,47031
+E08000017,Doncaster,3,3 people in household,21951
+E08000017,Doncaster,4,4 people in household,15610
+E08000017,Doncaster,5,5 people in household,5110
+E08000017,Doncaster,6,6 people in household,1492
+E08000017,Doncaster,7,7 people in household,414
+E08000017,Doncaster,8,8 or more people in household,204
+E08000018,Rotherham,0,0 people in household,0
+E08000018,Rotherham,1,1 person in household,34225
+E08000018,Rotherham,2,2 people in household,40346
+E08000018,Rotherham,3,3 people in household,18652
+E08000018,Rotherham,4,4 people in household,13936
+E08000018,Rotherham,5,5 people in household,4593
+E08000018,Rotherham,6,6 people in household,1387
+E08000018,Rotherham,7,7 people in household,471
+E08000018,Rotherham,8,8 or more people in household,315
+E08000019,Sheffield,0,0 people in household,0
+E08000019,Sheffield,1,1 person in household,75759
+E08000019,Sheffield,2,2 people in household,77636
+E08000019,Sheffield,3,3 people in household,34992
+E08000019,Sheffield,4,4 people in household,27650
+E08000019,Sheffield,5,5 people in household,10083
+E08000019,Sheffield,6,6 people in household,3605
+E08000019,Sheffield,7,7 people in household,1306
+E08000019,Sheffield,8,8 or more people in household,919
+E08000021,Newcastle upon Tyne,0,0 people in household,0
+E08000021,Newcastle upon Tyne,1,1 person in household,42031
+E08000021,Newcastle upon Tyne,2,2 people in household,39194
+E08000021,Newcastle upon Tyne,3,3 people in household,18742
+E08000021,Newcastle upon Tyne,4,4 people in household,13929
+E08000021,Newcastle upon Tyne,5,5 people in household,5284
+E08000021,Newcastle upon Tyne,6,6 people in household,2212
+E08000021,Newcastle upon Tyne,7,7 people in household,805
+E08000021,Newcastle upon Tyne,8,8 or more people in household,600
+E08000022,North Tyneside,0,0 people in household,0
+E08000022,North Tyneside,1,1 person in household,33553
+E08000022,North Tyneside,2,2 people in household,33266
+E08000022,North Tyneside,3,3 people in household,14822
+E08000022,North Tyneside,4,4 people in household,10971
+E08000022,North Tyneside,5,5 people in household,2735
+E08000022,North Tyneside,6,6 people in household,680
+E08000022,North Tyneside,7,7 people in household,149
+E08000022,North Tyneside,8,8 or more people in household,56
+E08000023,South Tyneside,0,0 people in household,0
+E08000023,South Tyneside,1,1 person in household,24550
+E08000023,South Tyneside,2,2 people in household,22878
+E08000023,South Tyneside,3,3 people in household,11001
+E08000023,South Tyneside,4,4 people in household,7092
+E08000023,South Tyneside,5,5 people in household,2023
+E08000023,South Tyneside,6,6 people in household,538
+E08000023,South Tyneside,7,7 people in household,138
+E08000023,South Tyneside,8,8 or more people in household,69
+E08000024,Sunderland,0,0 people in household,0
+E08000024,Sunderland,1,1 person in household,40368
+E08000024,Sunderland,2,2 people in household,42256
+E08000024,Sunderland,3,3 people in household,20562
+E08000024,Sunderland,4,4 people in household,13589
+E08000024,Sunderland,5,5 people in household,3809
+E08000024,Sunderland,6,6 people in household,1062
+E08000024,Sunderland,7,7 people in household,342
+E08000024,Sunderland,8,8 or more people in household,194
+E08000025,Birmingham,0,0 people in household,0
+E08000025,Birmingham,1,1 person in household,133224
+E08000025,Birmingham,2,2 people in household,113012
+E08000025,Birmingham,3,3 people in household,63986
+E08000025,Birmingham,4,4 people in household,54503
+E08000025,Birmingham,5,5 people in household,29542
+E08000025,Birmingham,6,6 people in household,15649
+E08000025,Birmingham,7,7 people in household,7273
+E08000025,Birmingham,8,8 or more people in household,6267
+E08000026,Coventry,0,0 people in household,0
+E08000026,Coventry,1,1 person in household,40777
+E08000026,Coventry,2,2 people in household,39787
+E08000026,Coventry,3,3 people in household,22556
+E08000026,Coventry,4,4 people in household,18458
+E08000026,Coventry,5,5 people in household,7827
+E08000026,Coventry,6,6 people in household,2839
+E08000026,Coventry,7,7 people in household,1194
+E08000026,Coventry,8,8 or more people in household,703
+E08000027,Dudley,0,0 people in household,0
+E08000027,Dudley,1,1 person in household,41709
+E08000027,Dudley,2,2 people in household,46526
+E08000027,Dudley,3,3 people in household,22691
+E08000027,Dudley,4,4 people in household,17069
+E08000027,Dudley,5,5 people in household,5961
+E08000027,Dudley,6,6 people in household,1993
+E08000027,Dudley,7,7 people in household,682
+E08000027,Dudley,8,8 or more people in household,436
+E08000028,Sandwell,0,0 people in household,0
+E08000028,Sandwell,1,1 person in household,38042
+E08000028,Sandwell,2,2 people in household,36353
+E08000028,Sandwell,3,3 people in household,21854
+E08000028,Sandwell,4,4 people in household,18634
+E08000028,Sandwell,5,5 people in household,8688
+E08000028,Sandwell,6,6 people in household,3828
+E08000028,Sandwell,7,7 people in household,1556
+E08000028,Sandwell,8,8 or more people in household,1291
+E08000029,Solihull,0,0 people in household,0
+E08000029,Solihull,1,1 person in household,25852
+E08000029,Solihull,2,2 people in household,29628
+E08000029,Solihull,3,3 people in household,14787
+E08000029,Solihull,4,4 people in household,13210
+E08000029,Solihull,5,5 people in household,4263
+E08000029,Solihull,6,6 people in household,1182
+E08000029,Solihull,7,7 people in household,369
+E08000029,Solihull,8,8 or more people in household,193
+E08000030,Walsall,0,0 people in household,0
+E08000030,Walsall,1,1 person in household,32129
+E08000030,Walsall,2,2 people in household,34801
+E08000030,Walsall,3,3 people in household,18679
+E08000030,Walsall,4,4 people in household,15479
+E08000030,Walsall,5,5 people in household,6831
+E08000030,Walsall,6,6 people in household,2730
+E08000030,Walsall,7,7 people in household,958
+E08000030,Walsall,8,8 or more people in household,619
+E08000031,Wolverhampton,0,0 people in household,0
+E08000031,Wolverhampton,1,1 person in household,32468
+E08000031,Wolverhampton,2,2 people in household,30542
+E08000031,Wolverhampton,3,3 people in household,17539
+E08000031,Wolverhampton,4,4 people in household,14599
+E08000031,Wolverhampton,5,5 people in household,6342
+E08000031,Wolverhampton,6,6 people in household,2342
+E08000031,Wolverhampton,7,7 people in household,836
+E08000031,Wolverhampton,8,8 or more people in household,473
+E08000032,Bradford,0,0 people in household,0
+E08000032,Bradford,1,1 person in household,64596
+E08000032,Bradford,2,2 people in household,62123
+E08000032,Bradford,3,3 people in household,30899
+E08000032,Bradford,4,4 people in household,25836
+E08000032,Bradford,5,5 people in household,13918
+E08000032,Bradford,6,6 people in household,6663
+E08000032,Bradford,7,7 people in household,3195
+E08000032,Bradford,8,8 or more people in household,2638
+E08000033,Calderdale,0,0 people in household,0
+E08000033,Calderdale,1,1 person in household,30308
+E08000033,Calderdale,2,2 people in household,30724
+E08000033,Calderdale,3,3 people in household,13462
+E08000033,Calderdale,4,4 people in household,10276
+E08000033,Calderdale,5,5 people in household,3591
+E08000033,Calderdale,6,6 people in household,1286
+E08000033,Calderdale,7,7 people in household,500
+E08000033,Calderdale,8,8 or more people in household,329
+E08000034,Kirklees,0,0 people in household,0
+E08000034,Kirklees,1,1 person in household,55176
+E08000034,Kirklees,2,2 people in household,58537
+E08000034,Kirklees,3,3 people in household,26964
+E08000034,Kirklees,4,4 people in household,22256
+E08000034,Kirklees,5,5 people in household,8985
+E08000034,Kirklees,6,6 people in household,3716
+E08000034,Kirklees,7,7 people in household,1385
+E08000034,Kirklees,8,8 or more people in household,970
+E08000035,Leeds,0,0 people in household,0
+E08000035,Leeds,1,1 person in household,111380
+E08000035,Leeds,2,2 people in household,113145
+E08000035,Leeds,3,3 people in household,51679
+E08000035,Leeds,4,4 people in household,42206
+E08000035,Leeds,5,5 people in household,14687
+E08000035,Leeds,6,6 people in household,5269
+E08000035,Leeds,7,7 people in household,1844
+E08000035,Leeds,8,8 or more people in household,1256
+E08000036,Wakefield,0,0 people in household,0
+E08000036,Wakefield,1,1 person in household,46419
+E08000036,Wakefield,2,2 people in household,54854
+E08000036,Wakefield,3,3 people in household,25346
+E08000036,Wakefield,4,4 people in household,18419
+E08000036,Wakefield,5,5 people in household,5567
+E08000036,Wakefield,6,6 people in household,1633
+E08000036,Wakefield,7,7 people in household,540
+E08000036,Wakefield,8,8 or more people in household,297
+E08000037,Gateshead,0,0 people in household,0
+E08000037,Gateshead,1,1 person in household,30807
+E08000037,Gateshead,2,2 people in household,31231
+E08000037,Gateshead,3,3 people in household,13652
+E08000037,Gateshead,4,4 people in household,9449
+E08000037,Gateshead,5,5 people in household,2589
+E08000037,Gateshead,6,6 people in household,802
+E08000037,Gateshead,7,7 people in household,237
+E08000037,Gateshead,8,8 or more people in household,233
+E09000001,City of London,0,0 people in household,0
+E09000001,City of London,1,1 person in household,2506
+E09000001,City of London,2,2 people in household,1767
+E09000001,City of London,3,3 people in household,371
+E09000001,City of London,4,4 people in household,190
+E09000001,City of London,5,5 people in household,52
+E09000001,City of London,6,6 people in household,11
+E09000001,City of London,7,7 people in household,7
+E09000001,City of London,8,8 or more people in household,10
+E09000002,Barking and Dagenham,0,0 people in household,0
+E09000002,Barking and Dagenham,1,1 person in household,17503
+E09000002,Barking and Dagenham,2,2 people in household,16630
+E09000002,Barking and Dagenham,3,3 people in household,13943
+E09000002,Barking and Dagenham,4,4 people in household,13273
+E09000002,Barking and Dagenham,5,5 people in household,7147
+E09000002,Barking and Dagenham,6,6 people in household,3134
+E09000002,Barking and Dagenham,7,7 people in household,1296
+E09000002,Barking and Dagenham,8,8 or more people in household,976
+E09000003,Barnet,0,0 people in household,0
+E09000003,Barnet,1,1 person in household,41658
+E09000003,Barnet,2,2 people in household,42347
+E09000003,Barnet,3,3 people in household,26841
+E09000003,Barnet,4,4 people in household,22637
+E09000003,Barnet,5,5 people in household,9113
+E09000003,Barnet,6,6 people in household,3563
+E09000003,Barnet,7,7 people in household,1542
+E09000003,Barnet,8,8 or more people in household,1216
+E09000004,Bexley,0,0 people in household,0
+E09000004,Bexley,1,1 person in household,24753
+E09000004,Bexley,2,2 people in household,28297
+E09000004,Bexley,3,3 people in household,17616
+E09000004,Bexley,4,4 people in household,16104
+E09000004,Bexley,5,5 people in household,5852
+E09000004,Bexley,6,6 people in household,1814
+E09000004,Bexley,7,7 people in household,576
+E09000004,Bexley,8,8 or more people in household,287
+E09000005,Brent,0,0 people in household,0
+E09000005,Brent,1,1 person in household,31985
+E09000005,Brent,2,2 people in household,30225
+E09000005,Brent,3,3 people in household,20783
+E09000005,Brent,4,4 people in household,17500
+E09000005,Brent,5,5 people in household,8810
+E09000005,Brent,6,6 people in household,4512
+E09000005,Brent,7,7 people in household,2151
+E09000005,Brent,8,8 or more people in household,2649
+E09000006,Bromley,0,0 people in household,0
+E09000006,Bromley,1,1 person in household,38668
+E09000006,Bromley,2,2 people in household,43242
+E09000006,Bromley,3,3 people in household,24235
+E09000006,Bromley,4,4 people in household,21393
+E09000006,Bromley,5,5 people in household,6040
+E09000006,Bromley,6,6 people in household,1591
+E09000006,Bromley,7,7 people in household,439
+E09000006,Bromley,8,8 or more people in household,219
+E09000007,Camden,0,0 people in household,0
+E09000007,Camden,1,1 person in household,35929
+E09000007,Camden,2,2 people in household,28682
+E09000007,Camden,3,3 people in household,12979
+E09000007,Camden,4,4 people in household,9162
+E09000007,Camden,5,5 people in household,3747
+E09000007,Camden,6,6 people in household,1384
+E09000007,Camden,7,7 people in household,516
+E09000007,Camden,8,8 or more people in household,358
+E09000008,Croydon,0,0 people in household,0
+E09000008,Croydon,1,1 person in household,43091
+E09000008,Croydon,2,2 people in household,45181
+E09000008,Croydon,3,3 people in household,27823
+E09000008,Croydon,4,4 people in household,22312
+E09000008,Croydon,5,5 people in household,9257
+E09000008,Croydon,6,6 people in household,3362
+E09000008,Croydon,7,7 people in household,1174
+E09000008,Croydon,8,8 or more people in household,746
+E09000009,Ealing,0,0 people in household,0
+E09000009,Ealing,1,1 person in household,35662
+E09000009,Ealing,2,2 people in household,35953
+E09000009,Ealing,3,3 people in household,23795
+E09000009,Ealing,4,4 people in household,21198
+E09000009,Ealing,5,5 people in household,9717
+E09000009,Ealing,6,6 people in household,3984
+E09000009,Ealing,7,7 people in household,1722
+E09000009,Ealing,8,8 or more people in household,1627
+E09000010,Enfield,0,0 people in household,0
+E09000010,Enfield,1,1 person in household,31159
+E09000010,Enfield,2,2 people in household,32259
+E09000010,Enfield,3,3 people in household,23242
+E09000010,Enfield,4,4 people in household,19932
+E09000010,Enfield,5,5 people in household,8456
+E09000010,Enfield,6,6 people in household,3194
+E09000010,Enfield,7,7 people in household,1283
+E09000010,Enfield,8,8 or more people in household,1400
+E09000011,Greenwich,0,0 people in household,0
+E09000011,Greenwich,1,1 person in household,34048
+E09000011,Greenwich,2,2 people in household,34464
+E09000011,Greenwich,3,3 people in household,19487
+E09000011,Greenwich,4,4 people in household,15326
+E09000011,Greenwich,5,5 people in household,6348
+E09000011,Greenwich,6,6 people in household,2456
+E09000011,Greenwich,7,7 people in household,986
+E09000011,Greenwich,8,8 or more people in household,938
+E09000012,Hackney,0,0 people in household,0
+E09000012,Hackney,1,1 person in household,34928
+E09000012,Hackney,2,2 people in household,32643
+E09000012,Hackney,3,3 people in household,17123
+E09000012,Hackney,4,4 people in household,11627
+E09000012,Hackney,5,5 people in household,5216
+E09000012,Hackney,6,6 people in household,2220
+E09000012,Hackney,7,7 people in household,1043
+E09000012,Hackney,8,8 or more people in household,1281
+E09000013,Hammersmith and Fulham,0,0 people in household,0
+E09000013,Hammersmith and Fulham,1,1 person in household,29324
+E09000013,Hammersmith and Fulham,2,2 people in household,25940
+E09000013,Hammersmith and Fulham,3,3 people in household,12395
+E09000013,Hammersmith and Fulham,4,4 people in household,8457
+E09000013,Hammersmith and Fulham,5,5 people in household,3447
+E09000013,Hammersmith and Fulham,6,6 people in household,1074
+E09000013,Hammersmith and Fulham,7,7 people in household,375
+E09000013,Hammersmith and Fulham,8,8 or more people in household,232
+E09000014,Haringey,0,0 people in household,0
+E09000014,Haringey,1,1 person in household,32293
+E09000014,Haringey,2,2 people in household,31075
+E09000014,Haringey,3,3 people in household,18054
+E09000014,Haringey,4,4 people in household,13972
+E09000014,Haringey,5,5 people in household,5509
+E09000014,Haringey,6,6 people in household,2059
+E09000014,Haringey,7,7 people in household,1040
+E09000014,Haringey,8,8 or more people in household,1090
+E09000015,Harrow,0,0 people in household,0
+E09000015,Harrow,1,1 person in household,19852
+E09000015,Harrow,2,2 people in household,23520
+E09000015,Harrow,3,3 people in household,17121
+E09000015,Harrow,4,4 people in household,16517
+E09000015,Harrow,5,5 people in household,6788
+E09000015,Harrow,6,6 people in household,3097
+E09000015,Harrow,7,7 people in household,1250
+E09000015,Harrow,8,8 or more people in household,1497
+E09000016,Havering,0,0 people in household,0
+E09000016,Havering,1,1 person in household,26129
+E09000016,Havering,2,2 people in household,30782
+E09000016,Havering,3,3 people in household,18689
+E09000016,Havering,4,4 people in household,16434
+E09000016,Havering,5,5 people in household,6195
+E09000016,Havering,6,6 people in household,1986
+E09000016,Havering,7,7 people in household,686
+E09000016,Havering,8,8 or more people in household,377
+E09000017,Hillingdon,0,0 people in household,0
+E09000017,Hillingdon,1,1 person in household,26635
+E09000017,Hillingdon,2,2 people in household,29597
+E09000017,Hillingdon,3,3 people in household,20484
+E09000017,Hillingdon,4,4 people in household,18849
+E09000017,Hillingdon,5,5 people in household,8247
+E09000017,Hillingdon,6,6 people in household,3229
+E09000017,Hillingdon,7,7 people in household,1223
+E09000017,Hillingdon,8,8 or more people in household,965
+E09000018,Hounslow,0,0 people in household,0
+E09000018,Hounslow,1,1 person in household,26209
+E09000018,Hounslow,2,2 people in household,26606
+E09000018,Hounslow,3,3 people in household,19160
+E09000018,Hounslow,4,4 people in household,17182
+E09000018,Hounslow,5,5 people in household,7626
+E09000018,Hounslow,6,6 people in household,3294
+E09000018,Hounslow,7,7 people in household,1486
+E09000018,Hounslow,8,8 or more people in household,1400
+E09000019,Islington,0,0 people in household,0
+E09000019,Islington,1,1 person in household,34795
+E09000019,Islington,2,2 people in household,32524
+E09000019,Islington,3,3 people in household,14660
+E09000019,Islington,4,4 people in household,9171
+E09000019,Islington,5,5 people in household,3245
+E09000019,Islington,6,6 people in household,1146
+E09000019,Islington,7,7 people in household,478
+E09000019,Islington,8,8 or more people in household,477
+E09000020,Kensington and Chelsea,0,0 people in household,0
+E09000020,Kensington and Chelsea,1,1 person in household,29232
+E09000020,Kensington and Chelsea,2,2 people in household,19338
+E09000020,Kensington and Chelsea,3,3 people in household,8247
+E09000020,Kensington and Chelsea,4,4 people in household,5577
+E09000020,Kensington and Chelsea,5,5 people in household,2619
+E09000020,Kensington and Chelsea,6,6 people in household,1017
+E09000020,Kensington and Chelsea,7,7 people in household,525
+E09000020,Kensington and Chelsea,8,8 or more people in household,329
+E09000021,Kingston upon Thames,0,0 people in household,0
+E09000021,Kingston upon Thames,1,1 person in household,17716
+E09000021,Kingston upon Thames,2,2 people in household,19953
+E09000021,Kingston upon Thames,3,3 people in household,11957
+E09000021,Kingston upon Thames,4,4 people in household,11015
+E09000021,Kingston upon Thames,5,5 people in household,3482
+E09000021,Kingston upon Thames,6,6 people in household,1062
+E09000021,Kingston upon Thames,7,7 people in household,283
+E09000021,Kingston upon Thames,8,8 or more people in household,158
+E09000022,Lambeth,0,0 people in household,0
+E09000022,Lambeth,1,1 person in household,43154
+E09000022,Lambeth,2,2 people in household,44849
+E09000022,Lambeth,3,3 people in household,22469
+E09000022,Lambeth,4,4 people in household,14991
+E09000022,Lambeth,5,5 people in household,5477
+E09000022,Lambeth,6,6 people in household,2164
+E09000022,Lambeth,7,7 people in household,824
+E09000022,Lambeth,8,8 or more people in household,758
+E09000023,Lewisham,0,0 people in household,0
+E09000023,Lewisham,1,1 person in household,37147
+E09000023,Lewisham,2,2 people in household,38233
+E09000023,Lewisham,3,3 people in household,21153
+E09000023,Lewisham,4,4 people in household,15941
+E09000023,Lewisham,5,5 people in household,5867
+E09000023,Lewisham,6,6 people in household,2371
+E09000023,Lewisham,7,7 people in household,874
+E09000023,Lewisham,8,8 or more people in household,809
+E09000024,Merton,0,0 people in household,0
+E09000024,Merton,1,1 person in household,20464
+E09000024,Merton,2,2 people in household,24679
+E09000024,Merton,3,3 people in household,15139
+E09000024,Merton,4,4 people in household,13427
+E09000024,Merton,5,5 people in household,5062
+E09000024,Merton,6,6 people in household,1809
+E09000024,Merton,7,7 people in household,639
+E09000024,Merton,8,8 or more people in household,510
+E09000025,Newham,0,0 people in household,0
+E09000025,Newham,1,1 person in household,27038
+E09000025,Newham,2,2 people in household,29262
+E09000025,Newham,3,3 people in household,19830
+E09000025,Newham,4,4 people in household,17444
+E09000025,Newham,5,5 people in household,10555
+E09000025,Newham,6,6 people in household,5546
+E09000025,Newham,7,7 people in household,2700
+E09000025,Newham,8,8 or more people in household,3133
+E09000026,Redbridge,0,0 people in household,0
+E09000026,Redbridge,1,1 person in household,23886
+E09000026,Redbridge,2,2 people in household,24386
+E09000026,Redbridge,3,3 people in household,18837
+E09000026,Redbridge,4,4 people in household,19096
+E09000026,Redbridge,5,5 people in household,9526
+E09000026,Redbridge,6,6 people in household,4295
+E09000026,Redbridge,7,7 people in household,1955
+E09000026,Redbridge,8,8 or more people in household,1732
+E09000027,Richmond upon Thames,0,0 people in household,0
+E09000027,Richmond upon Thames,1,1 person in household,23871
+E09000027,Richmond upon Thames,2,2 people in household,25216
+E09000027,Richmond upon Thames,3,3 people in household,13861
+E09000027,Richmond upon Thames,4,4 people in household,12962
+E09000027,Richmond upon Thames,5,5 people in household,3615
+E09000027,Richmond upon Thames,6,6 people in household,841
+E09000027,Richmond upon Thames,7,7 people in household,228
+E09000027,Richmond upon Thames,8,8 or more people in household,111
+E09000028,Southwark,0,0 people in household,0
+E09000028,Southwark,1,1 person in household,43348
+E09000028,Southwark,2,2 people in household,42744
+E09000028,Southwark,3,3 people in household,21078
+E09000028,Southwark,4,4 people in household,14423
+E09000028,Southwark,5,5 people in household,5619
+E09000028,Southwark,6,6 people in household,2133
+E09000028,Southwark,7,7 people in household,739
+E09000028,Southwark,8,8 or more people in household,734
+E09000029,Sutton,0,0 people in household,0
+E09000029,Sutton,1,1 person in household,22197
+E09000029,Sutton,2,2 people in household,24218
+E09000029,Sutton,3,3 people in household,15236
+E09000029,Sutton,4,4 people in household,14150
+E09000029,Sutton,5,5 people in household,4648
+E09000029,Sutton,6,6 people in household,1359
+E09000029,Sutton,7,7 people in household,354
+E09000029,Sutton,8,8 or more people in household,189
+E09000030,Tower Hamlets,0,0 people in household,0
+E09000030,Tower Hamlets,1,1 person in household,38531
+E09000030,Tower Hamlets,2,2 people in household,37437
+E09000030,Tower Hamlets,3,3 people in household,17229
+E09000030,Tower Hamlets,4,4 people in household,12514
+E09000030,Tower Hamlets,5,5 people in household,7442
+E09000030,Tower Hamlets,6,6 people in household,4036
+E09000030,Tower Hamlets,7,7 people in household,1747
+E09000030,Tower Hamlets,8,8 or more people in household,1603
+E09000031,Waltham Forest,0,0 people in household,0
+E09000031,Waltham Forest,1,1 person in household,26696
+E09000031,Waltham Forest,2,2 people in household,29957
+E09000031,Waltham Forest,3,3 people in household,18668
+E09000031,Waltham Forest,4,4 people in household,15319
+E09000031,Waltham Forest,5,5 people in household,6585
+E09000031,Waltham Forest,6,6 people in household,2968
+E09000031,Waltham Forest,7,7 people in household,1329
+E09000031,Waltham Forest,8,8 or more people in household,1379
+E09000032,Wandsworth,0,0 people in household,0
+E09000032,Wandsworth,1,1 person in household,41132
+E09000032,Wandsworth,2,2 people in household,46877
+E09000032,Wandsworth,3,3 people in household,23047
+E09000032,Wandsworth,4,4 people in household,17358
+E09000032,Wandsworth,5,5 people in household,6119
+E09000032,Wandsworth,6,6 people in household,1839
+E09000032,Wandsworth,7,7 people in household,609
+E09000032,Wandsworth,8,8 or more people in household,412
+E09000033,Westminster,0,0 people in household,0
+E09000033,Westminster,1,1 person in household,40443
+E09000033,Westminster,2,2 people in household,28605
+E09000033,Westminster,3,3 people in household,12069
+E09000033,Westminster,4,4 people in household,7583
+E09000033,Westminster,5,5 people in household,3620
+E09000033,Westminster,6,6 people in household,1455
+E09000033,Westminster,7,7 people in household,491
+E09000033,Westminster,8,8 or more people in household,549
+W06000001,Isle of Anglesey,0,0 people in household,0
+W06000001,Isle of Anglesey,1,1 person in household,10189
+W06000001,Isle of Anglesey,2,2 people in household,11246
+W06000001,Isle of Anglesey,3,3 people in household,4435
+W06000001,Isle of Anglesey,4,4 people in household,3284
+W06000001,Isle of Anglesey,5,5 people in household,1195
+W06000001,Isle of Anglesey,6,6 people in household,325
+W06000001,Isle of Anglesey,7,7 people in household,89
+W06000001,Isle of Anglesey,8,8 or more people in household,59
+W06000002,Gwynedd,0,0 people in household,0
+W06000002,Gwynedd,1,1 person in household,17664
+W06000002,Gwynedd,2,2 people in household,17612
+W06000002,Gwynedd,3,3 people in household,7155
+W06000002,Gwynedd,4,4 people in household,5531
+W06000002,Gwynedd,5,5 people in household,2157
+W06000002,Gwynedd,6,6 people in household,678
+W06000002,Gwynedd,7,7 people in household,191
+W06000002,Gwynedd,8,8 or more people in household,117
+W06000003,Conwy,0,0 people in household,0
+W06000003,Conwy,1,1 person in household,17909
+W06000003,Conwy,2,2 people in household,19249
+W06000003,Conwy,3,3 people in household,7443
+W06000003,Conwy,4,4 people in household,5156
+W06000003,Conwy,5,5 people in household,1723
+W06000003,Conwy,6,6 people in household,507
+W06000003,Conwy,7,7 people in household,153
+W06000003,Conwy,8,8 or more people in household,95
+W06000004,Denbighshire,0,0 people in household,0
+W06000004,Denbighshire,1,1 person in household,14107
+W06000004,Denbighshire,2,2 people in household,15214
+W06000004,Denbighshire,3,3 people in household,6170
+W06000004,Denbighshire,4,4 people in household,4510
+W06000004,Denbighshire,5,5 people in household,1612
+W06000004,Denbighshire,6,6 people in household,528
+W06000004,Denbighshire,7,7 people in household,171
+W06000004,Denbighshire,8,8 or more people in household,75
+W06000005,Flintshire,0,0 people in household,0
+W06000005,Flintshire,1,1 person in household,19471
+W06000005,Flintshire,2,2 people in household,24340
+W06000005,Flintshire,3,3 people in household,11233
+W06000005,Flintshire,4,4 people in household,8479
+W06000005,Flintshire,5,5 people in household,2498
+W06000005,Flintshire,6,6 people in household,661
+W06000005,Flintshire,7,7 people in household,161
+W06000005,Flintshire,8,8 or more people in household,68
+W06000006,Wrexham,0,0 people in household,0
+W06000006,Wrexham,1,1 person in household,17662
+W06000006,Wrexham,2,2 people in household,20423
+W06000006,Wrexham,3,3 people in household,9795
+W06000006,Wrexham,4,4 people in household,7055
+W06000006,Wrexham,5,5 people in household,2162
+W06000006,Wrexham,6,6 people in household,592
+W06000006,Wrexham,7,7 people in household,156
+W06000006,Wrexham,8,8 or more people in household,69
+W06000008,Ceredigion,0,0 people in household,0
+W06000008,Ceredigion,1,1 person in household,10202
+W06000008,Ceredigion,2,2 people in household,11845
+W06000008,Ceredigion,3,3 people in household,4045
+W06000008,Ceredigion,4,4 people in household,3103
+W06000008,Ceredigion,5,5 people in household,1124
+W06000008,Ceredigion,6,6 people in household,380
+W06000008,Ceredigion,7,7 people in household,114
+W06000008,Ceredigion,8,8 or more people in household,79
+W06000009,Pembrokeshire,0,0 people in household,0
+W06000009,Pembrokeshire,1,1 person in household,18507
+W06000009,Pembrokeshire,2,2 people in household,20546
+W06000009,Pembrokeshire,3,3 people in household,7797
+W06000009,Pembrokeshire,4,4 people in household,5691
+W06000009,Pembrokeshire,5,5 people in household,2084
+W06000009,Pembrokeshire,6,6 people in household,585
+W06000009,Pembrokeshire,7,7 people in household,189
+W06000009,Pembrokeshire,8,8 or more people in household,88
+W06000010,Carmarthenshire,0,0 people in household,0
+W06000010,Carmarthenshire,1,1 person in household,25349
+W06000010,Carmarthenshire,2,2 people in household,29813
+W06000010,Carmarthenshire,3,3 people in household,12553
+W06000010,Carmarthenshire,4,4 people in household,9392
+W06000010,Carmarthenshire,5,5 people in household,3222
+W06000010,Carmarthenshire,6,6 people in household,980
+W06000010,Carmarthenshire,7,7 people in household,291
+W06000010,Carmarthenshire,8,8 or more people in household,159
+W06000011,Swansea,0,0 people in household,0
+W06000011,Swansea,1,1 person in household,36154
+W06000011,Swansea,2,2 people in household,35218
+W06000011,Swansea,3,3 people in household,15877
+W06000011,Swansea,4,4 people in household,12001
+W06000011,Swansea,5,5 people in household,3996
+W06000011,Swansea,6,6 people in household,1171
+W06000011,Swansea,7,7 people in household,367
+W06000011,Swansea,8,8 or more people in household,178
+W06000012,Neath Port Talbot,0,0 people in household,0
+W06000012,Neath Port Talbot,1,1 person in household,20368
+W06000012,Neath Port Talbot,2,2 people in household,21531
+W06000012,Neath Port Talbot,3,3 people in household,10255
+W06000012,Neath Port Talbot,4,4 people in household,7283
+W06000012,Neath Port Talbot,5,5 people in household,2151
+W06000012,Neath Port Talbot,6,6 people in household,578
+W06000012,Neath Port Talbot,7,7 people in household,154
+W06000012,Neath Port Talbot,8,8 or more people in household,56
+W06000013,Bridgend,0,0 people in household,0
+W06000013,Bridgend,1,1 person in household,18664
+W06000013,Bridgend,2,2 people in household,22412
+W06000013,Bridgend,3,3 people in household,10481
+W06000013,Bridgend,4,4 people in household,7461
+W06000013,Bridgend,5,5 people in household,2420
+W06000013,Bridgend,6,6 people in household,651
+W06000013,Bridgend,7,7 people in household,163
+W06000013,Bridgend,8,8 or more people in household,108
+W06000014,Vale of Glamorgan,0,0 people in household,0
+W06000014,Vale of Glamorgan,1,1 person in household,17841
+W06000014,Vale of Glamorgan,2,2 people in household,20368
+W06000014,Vale of Glamorgan,3,3 people in household,9111
+W06000014,Vale of Glamorgan,4,4 people in household,7186
+W06000014,Vale of Glamorgan,5,5 people in household,2275
+W06000014,Vale of Glamorgan,6,6 people in household,496
+W06000014,Vale of Glamorgan,7,7 people in household,124
+W06000014,Vale of Glamorgan,8,8 or more people in household,45
+W06000015,Cardiff,0,0 people in household,0
+W06000015,Cardiff,1,1 person in household,47463
+W06000015,Cardiff,2,2 people in household,47353
+W06000015,Cardiff,3,3 people in household,23187
+W06000015,Cardiff,4,4 people in household,18472
+W06000015,Cardiff,5,5 people in household,6717
+W06000015,Cardiff,6,6 people in household,2479
+W06000015,Cardiff,7,7 people in household,976
+W06000015,Cardiff,8,8 or more people in household,686
+W06000016,Rhondda Cynon Taf,0,0 people in household,0
+W06000016,Rhondda Cynon Taf,1,1 person in household,32170
+W06000016,Rhondda Cynon Taf,2,2 people in household,35250
+W06000016,Rhondda Cynon Taf,3,3 people in household,17769
+W06000016,Rhondda Cynon Taf,4,4 people in household,12881
+W06000016,Rhondda Cynon Taf,5,5 people in household,4015
+W06000016,Rhondda Cynon Taf,6,6 people in household,922
+W06000016,Rhondda Cynon Taf,7,7 people in household,230
+W06000016,Rhondda Cynon Taf,8,8 or more people in household,103
+W06000018,Caerphilly,0,0 people in household,0
+W06000018,Caerphilly,1,1 person in household,22965
+W06000018,Caerphilly,2,2 people in household,26687
+W06000018,Caerphilly,3,3 people in household,13138
+W06000018,Caerphilly,4,4 people in household,9500
+W06000018,Caerphilly,5,5 people in household,2922
+W06000018,Caerphilly,6,6 people in household,752
+W06000018,Caerphilly,7,7 people in household,203
+W06000018,Caerphilly,8,8 or more people in household,90
+W06000019,Blaenau Gwent,0,0 people in household,0
+W06000019,Blaenau Gwent,1,1 person in household,10175
+W06000019,Blaenau Gwent,2,2 people in household,10462
+W06000019,Blaenau Gwent,3,3 people in household,5174
+W06000019,Blaenau Gwent,4,4 people in household,3182
+W06000019,Blaenau Gwent,5,5 people in household,1020
+W06000019,Blaenau Gwent,6,6 people in household,231
+W06000019,Blaenau Gwent,7,7 people in household,71
+W06000019,Blaenau Gwent,8,8 or more people in household,25
+W06000020,Torfaen,0,0 people in household,0
+W06000020,Torfaen,1,1 person in household,12316
+W06000020,Torfaen,2,2 people in household,14189
+W06000020,Torfaen,3,3 people in household,6866
+W06000020,Torfaen,4,4 people in household,4784
+W06000020,Torfaen,5,5 people in household,1478
+W06000020,Torfaen,6,6 people in household,428
+W06000020,Torfaen,7,7 people in household,121
+W06000020,Torfaen,8,8 or more people in household,59
+W06000021,Monmouthshire,0,0 people in household,0
+W06000021,Monmouthshire,1,1 person in household,12287
+W06000021,Monmouthshire,2,2 people in household,15862
+W06000021,Monmouthshire,3,3 people in household,6144
+W06000021,Monmouthshire,4,4 people in household,4765
+W06000021,Monmouthshire,5,5 people in household,1387
+W06000021,Monmouthshire,6,6 people in household,347
+W06000021,Monmouthshire,7,7 people in household,89
+W06000021,Monmouthshire,8,8 or more people in household,44
+W06000022,Newport,0,0 people in household,0
+W06000022,Newport,1,1 person in household,19997
+W06000022,Newport,2,2 people in household,21708
+W06000022,Newport,3,3 people in household,11114
+W06000022,Newport,4,4 people in household,8436
+W06000022,Newport,5,5 people in household,2914
+W06000022,Newport,6,6 people in household,1031
+W06000022,Newport,7,7 people in household,437
+W06000022,Newport,8,8 or more people in household,416
+W06000023,Powys,0,0 people in household,0
+W06000023,Powys,1,1 person in household,19841
+W06000023,Powys,2,2 people in household,22962
+W06000023,Powys,3,3 people in household,8037
+W06000023,Powys,4,4 people in household,6194
+W06000023,Powys,5,5 people in household,2269
+W06000023,Powys,6,6 people in household,597
+W06000023,Powys,7,7 people in household,192
+W06000023,Powys,8,8 or more people in household,90
+W06000024,Merthyr Tydfil,0,0 people in household,0
+W06000024,Merthyr Tydfil,1,1 person in household,8258
+W06000024,Merthyr Tydfil,2,2 people in household,8616
+W06000024,Merthyr Tydfil,3,3 people in household,4503
+W06000024,Merthyr Tydfil,4,4 people in household,3109
+W06000024,Merthyr Tydfil,5,5 people in household,964
+W06000024,Merthyr Tydfil,6,6 people in household,240
+W06000024,Merthyr Tydfil,7,7 people in household,66
+W06000024,Merthyr Tydfil,8,8 or more people in household,27
