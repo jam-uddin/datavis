@@ -1,0 +1,91 @@
+Regions Code,Regions,Household size (9 categories) Code,Household size (9 categories),Observation
+E12000001,North East,0,0 people in household,0
+E12000001,North East,1,1 person in household,395924
+E12000001,North East,2,2 people in household,410822
+E12000001,North East,3,3 people in household,183528
+E12000001,North East,4,4 people in household,128338
+E12000001,North East,5,5 people in household,39167
+E12000001,North East,6,6 people in household,12028
+E12000001,North East,7,7 people in household,3687
+E12000001,North East,8,8 or more people in household,2186
+E12000002,North West,0,0 people in household,0
+E12000002,North West,1,1 person in household,1014910
+E12000002,North West,2,2 people in household,1054079
+E12000002,North West,3,3 people in household,500601
+E12000002,North West,4,4 people in household,377427
+E12000002,North West,5,5 people in household,133010
+E12000002,North West,6,6 people in household,45673
+E12000002,North West,7,7 people in household,16093
+E12000002,North West,8,8 or more people in household,11611
+E12000003,Yorkshire and The Humber,0,0 people in household,0
+E12000003,Yorkshire and The Humber,1,1 person in household,733558
+E12000003,Yorkshire and The Humber,2,2 people in household,814139
+E12000003,Yorkshire and The Humber,3,3 people in household,356185
+E12000003,Yorkshire and The Humber,4,4 people in household,276060
+E12000003,Yorkshire and The Humber,5,5 people in household,97116
+E12000003,Yorkshire and The Humber,6,6 people in household,33505
+E12000003,Yorkshire and The Humber,7,7 people in household,12016
+E12000003,Yorkshire and The Humber,8,8 or more people in household,8079
+E12000004,East Midlands,0,0 people in household,0
+E12000004,East Midlands,1,1 person in household,597177
+E12000004,East Midlands,2,2 people in household,730945
+E12000004,East Midlands,3,3 people in household,322451
+E12000004,East Midlands,4,4 people in household,256146
+E12000004,East Midlands,5,5 people in household,86624
+E12000004,East Midlands,6,6 people in household,27834
+E12000004,East Midlands,7,7 people in household,9384
+E12000004,East Midlands,8,8 or more people in household,6773
+E12000005,West Midlands,0,0 people in household,0
+E12000005,West Midlands,1,1 person in household,725807
+E12000005,West Midlands,2,2 people in household,811252
+E12000005,West Midlands,3,3 people in household,387589
+E12000005,West Midlands,4,4 people in household,310365
+E12000005,West Midlands,5,5 people in household,119362
+E12000005,West Midlands,6,6 people in household,45020
+E12000005,West Midlands,7,7 people in household,17437
+E12000005,West Midlands,8,8 or more people in household,12661
+E12000006,East of England,0,0 people in household,0
+E12000006,East of England,1,1 person in household,759808
+E12000006,East of England,2,2 people in household,915234
+E12000006,East of England,3,3 people in household,422590
+E12000006,East of England,4,4 people in household,359854
+E12000006,East of England,5,5 people in household,117695
+E12000006,East of England,6,6 people in household,35780
+E12000006,East of England,7,7 people in household,11027
+E12000006,East of England,8,8 or more people in household,6794
+E12000007,London,0,0 people in household,0
+E12000007,London,1,1 person in household,1001983
+E12000007,London,2,2 people in household,1007485
+E12000007,London,3,3 people in household,587620
+E12000007,London,4,4 people in household,483036
+E12000007,London,5,5 people in household,201049
+E12000007,London,6,6 people in household,80001
+E12000007,London,7,7 people in household,32571
+E12000007,London,8,8 or more people in household,30145
+E12000008,South East,0,0 people in household,0
+E12000008,South East,1,1 person in household,1081739
+E12000008,South East,2,2 people in household,1324005
+E12000008,South East,3,3 people in household,617807
+E12000008,South East,4,4 people in household,535503
+E12000008,South East,5,5 people in household,172459
+E12000008,South East,6,6 people in household,51445
+E12000008,South East,7,7 people in household,15687
+E12000008,South East,8,8 or more people in household,9321
+E12000009,South West,0,0 people in household,0
+E12000009,South West,1,1 person in household,741323
+E12000009,South West,2,2 people in household,910536
+E12000009,South West,3,3 people in household,364516
+E12000009,South West,4,4 people in household,298067
+E12000009,South West,5,5 people in household,93966
+E12000009,South West,6,6 people in household,27509
+E12000009,South West,7,7 people in household,8116
+E12000009,South West,8,8 or more people in household,4848
+W92000004,Wales,0,0 people in household,0
+W92000004,Wales,1,1 person in household,429559
+W92000004,Wales,2,2 people in household,472906
+W92000004,Wales,3,3 people in household,212281
+W92000004,Wales,4,4 people in household,157455
+W92000004,Wales,5,5 people in household,52304
+W92000004,Wales,6,6 people in household,15162
+W92000004,Wales,7,7 people in household,4709
+W92000004,Wales,8,8 or more people in household,2738
